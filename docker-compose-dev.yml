@@ -4,8 +4,8 @@ services:
     build: .
     ports: ['4000:80']
     volumes: 
-         - ball-in-court-sync:/app/src:nocopy # set nocopy
+         - le-vin-coupe-sync:/app/src:nocopy # set nocopy
 
 volumes:
-  ball-in-court-sync:
+  le-vin-coupe-sync:
     external: true

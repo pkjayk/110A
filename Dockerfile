@@ -7,9 +7,6 @@ WORKDIR /app
 # Copy the src directory contents into the container at /app
 ADD . /app
 
-# Move google credentials from app to proper location
-RUN mkdir /root/.credentials && mv /app/client_secret.json /root/.credentials
-
 # Install any needed packages specified in requirements.txt
 RUN pip install -r requirements.txt
 

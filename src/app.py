@@ -1,7 +1,6 @@
 from flask import Flask
 import os
 import socket
-import gmail_api
 
 app = Flask(__name__)
 
@@ -9,13 +8,12 @@ app = Flask(__name__)
 @app.route("/")
 def hello():
 
-    return "Ball In Court"
+    return "Le vin coupe test"
 
 # Authentication page
-@app.route("/authenticate")
+@app.route("/login")
 def render():
-
-	return gmail_api.main()
+	return "test"
 
 # 404 - No page exists
 @app.errorhandler(404)
