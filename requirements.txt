@@ -1,0 +1,3 @@
+Flask
+Redis
+google-api-python-client
