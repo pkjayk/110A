@@ -1,21 +1,46 @@
-from flask import Flask
-from flask import render_template
+from flask import Flask, render_template, request, make_response, jsonify, session
+from flask_session import Session
+import memcache
 import os
 import socket
 from user import User
+import redis
 
 app = Flask(__name__)
 
-# Home page
-@app.route("/")
-def display():
+SESSION_TYPE = 'filesystem'
+app.config.from_object(__name__)
+Session(app)
 
-    return render_template('home.html')
+# Home page - Will display either login screen or dashboard
+@app.route("/")
+def displayHomepage():
+
+	if not User.isLoggedIn():
+		response = render_template('login.html')
+	else:
+		response = render_template('dashboard.html')
+
+	return response
 
 # Authentication page
-@app.route("/login", methods=['GET','POST'])
-def test():
-	return User.checkCredentials("bob.moore@gmail.com", "bob")
+@app.route("/login", methods=['POST'])
+def checkCredentials():
+
+	return User.checkCredentials(email = request.form['email'], password = request.form['password'])
+
+# Authentication page
+@app.route("/register", methods=['GET', 'POST'])
+def renderRegisterPage():
+
+	if request.method == "GET":
+		return render_template('register.html')
+	if request.method == "POST":
+		return User.registerUser(request.form['firstName'], request.form['lastName'], request.form['address'], request.form['city'], request.form['state'], request.form['zip'], request.form['email'], request.form['password'])
+
+@app.route("/logout")
+def logoutUser():
+	return User.logout()
 
 # 404 - No page exists
 @app.errorhandler(404)

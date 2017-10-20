@@ -328,3 +328,45 @@
    Sync Log:  UNISON 2.48.4 finished propagating changes at 11:33:21.65 on 19 Oct 2017
    Sync Log:  Synchronization complete at 11:33:21  (1 item transferred, 0 skipped, 0 failed)
    Sync Log:  Error response from daemon: Bad response from Docker engine
+          ok  Starting native_osx for sync le-vin-coupe-sync
+          ok  le-vin-coupe-sync container still running, restarting unison in container
+     command  docker exec le-vin-coupe-sync supervisorctl restart unison
+          ok  starting initial sync of le-vin-coupe-sync
+     success  Sync container started
+     success  Showing unison logs from your sync container: le-vin-coupe-sync
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:45:31.26 on 19 Oct 2017
+   Sync Log:  [BGN] Updating file user.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file user.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:45:31.27 on 19 Oct 2017
+   Sync Log:  Synchronization complete at 19:45:31  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:45:32.27 on 19 Oct 2017
+   Sync Log:  [BGN] Updating file __pycache__/user.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/user.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:45:32.28 on 19 Oct 2017
+   Sync Log:  Synchronization complete at 19:45:32  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:45:53.85 on 19 Oct 2017
+   Sync Log:  [BGN] Updating file __pycache__/user.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/user.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:45:53.85 on 19 Oct 2017
+   Sync Log:  Synchronization complete at 19:45:53  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:45:54.86 on 19 Oct 2017
+   Sync Log:  [BGN] Updating file user.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file user.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:45:54.87 on 19 Oct 2017
+   Sync Log:  Synchronization complete at 19:45:54  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:46:34.90 on 19 Oct 2017
+   Sync Log:  [BGN] Updating file user.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file user.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:46:34.90 on 19 Oct 2017
+   Sync Log:  Synchronization complete at 19:46:34  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:46:52.60 on 19 Oct 2017
+   Sync Log:  [BGN] Updating file user.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file user.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:46:52.60 on 19 Oct 2017
+   Sync Log:  Synchronization complete at 19:46:52  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:47:01.36 on 19 Oct 2017
+   Sync Log:  [BGN] Updating file __pycache__/user.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/user.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:47:01.36 on 19 Oct 2017
+   Sync Log:  Synchronization complete at 19:47:01  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  Error response from daemon: Bad response from Docker engine
