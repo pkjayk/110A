@@ -19,7 +19,7 @@ def displayHomepage():
 	if not User.isLoggedIn():
 		response = render_template('login.html')
 	else:
-		response = render_template('dashboard.html')
+		response = render_template('dashboard.html', firstName = User.getFirstName())
 
 	return response
 
@@ -27,16 +27,20 @@ def displayHomepage():
 @app.route("/login", methods=['POST'])
 def checkCredentials():
 
-	return User.checkCredentials(email = request.form['email'], password = request.form['password'])
+	login = User()
+
+	return login.checkCredentials(email = request.form['email'], password = request.form['password'])
 
 # Authentication page
 @app.route("/register", methods=['GET', 'POST'])
 def renderRegisterPage():
 
+	register = User()
+
 	if request.method == "GET":
 		return render_template('register.html')
 	if request.method == "POST":
-		return User.registerUser(request.form['firstName'], request.form['lastName'], request.form['address'], request.form['city'], request.form['state'], request.form['zip'], request.form['email'], request.form['password'])
+		return register.registerUser(request.form['firstName'], request.form['lastName'], request.form['address'], request.form['city'], request.form['state'], request.form['zip'], request.form['email'], request.form['password'])
 
 @app.route("/logout")
 def logoutUser():

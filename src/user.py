@@ -7,8 +7,23 @@ import sys
 class User:
 
 	# define conn variable
+	def __init__(self):
+		self = self
 
-	def checkCredentials(email=None, password=None):
+	def isEmpty(*arg):
+		emptyValue = False
+		for var in arg:
+			if var == "":
+				emptyValue = True
+				
+		if(emptyValue):
+			return True
+			#raise ValueError('All fields must be entered.')
+
+	def checkCredentials(self, email=None, password=None):
+
+		if(self.isEmpty(email, password)):
+			return 'Please enter a username and password.'
 
 		conn = sqlite3.connect('/app/src/LeVinEmployee.db')
 
@@ -19,7 +34,7 @@ class User:
 			try:
 
 				# select username and password match, use placeholders in query to prevent SQL injection
-				cur.execute("SELECT count(*) FROM Employee WHERE Email = ? AND Password = ?", (email, password))
+				cur.execute("SELECT count(*), FirstName FROM Employee WHERE Email = ? AND Password = ?", (email, password))
 	            
 				results = cur.fetchall()
 
@@ -28,6 +43,7 @@ class User:
 				# check the count and make sure = 1, if so, authenticated                      
 				if(results[0][0] == 1):
 					session['loggedIn'] = True
+					session['FirstName'] = str(results[0][1])
 				else:
 					print("Incorrect email and password combination. Please try again.")
 	            
@@ -40,8 +56,11 @@ class User:
 			return "Invalid credentials, please try again."
 
 	# registers a user in the database
-	def registerUser(firstName, lastName, address, city, state, zip, email, password):
+	def registerUser(self, firstName, lastName, address, city, state, zip, email, password):
 		
+		if(self.isEmpty(firstName, lastName, address, city, state, zip, email, password)):
+			return 'Please enter all fields.'
+			
 		conn = sqlite3.connect('/app/src/LeVinEmployee.db')
 
 		with conn:
@@ -70,13 +89,16 @@ class User:
 				print(e)
 
 	            
-		return "Good"
+		return "User Registered!"
 
 	def isLoggedIn():
 		if session.get('loggedIn') == True:
 			return True
 		else:
 			return False
+
+	def getFirstName():
+		return session.get('FirstName')
 
 	def logout():
 		session['loggedIn'] = False
