@@ -1111,3 +1111,556 @@
    Sync Log:  [END] Updating file LeVinEmployee.db
    Sync Log:  UNISON 2.48.4 finished propagating changes at 12:11:21.75 on 25 Oct 2017
    Sync Log:  Synchronization complete at 12:11:21  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  Error response from daemon: Bad response from Docker engine
+          ok  Starting native_osx for sync le-vin-coupe-sync
+          ok  le-vin-coupe-sync container still running, restarting unison in container
+     command  docker exec le-vin-coupe-sync supervisorctl restart unison
+          ok  starting initial sync of le-vin-coupe-sync
+     success  Sync container started
+     success  Showing unison logs from your sync container: le-vin-coupe-sync
+   Sync Log:  UNISON 2.48.4 started propagating changes at 12:11:21.74 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file LeVinEmployee.db from /host_sync to /app_sync
+   Sync Log:  [END] Updating file LeVinEmployee.db
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 12:11:21.75 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 12:11:21  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:36:18.28 on 25 Oct 2017
+   Sync Log:  [BGN] Deleting LeVinEmployee.db-journal from /app_sync
+   Sync Log:  [END] Deleting LeVinEmployee.db-journal
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:36:18.29 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 19:36:18  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:37:42.31 on 25 Oct 2017
+   Sync Log:  [BGN] Copying user_tests.py from /host_sync to /app_sync
+   Sync Log:  [END] Copying user_tests.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:37:42.31 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 19:37:42  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:37:46.53 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file user_tests.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file user_tests.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:37:46.54 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 19:37:46  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:38:15.85 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file user_tests.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file user_tests.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:38:15.85 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 19:38:15  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:39:44.42 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file user.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file user.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:39:44.43 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 19:39:44  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:39:45.44 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file __pycache__/user.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/user.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:39:45.44 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 19:39:45  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:39:55.25 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file user.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file user.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:39:55.25 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 19:39:55  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:39:56.26 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file __pycache__/user.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/user.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:39:56.26 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 19:39:56  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:40:01.64 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file __pycache__/user.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/user.cpython-36.pyc
+   Sync Log:  [BGN] Updating file user.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file user.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:40:01.65 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 19:40:01  (2 items transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:40:05.19 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file __pycache__/user.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/user.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:40:05.19 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 19:40:05  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:40:06.20 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file user.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file user.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:40:06.20 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 19:40:06  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:40:07.21 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file __pycache__/user.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/user.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:40:07.22 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 19:40:07  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:40:33.84 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file __pycache__/user.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/user.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:40:33.84 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 19:40:33  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:40:45.46 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file user.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file user.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:40:45.47 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 19:40:45  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:40:47.49 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file __pycache__/user.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/user.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:40:47.49 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 19:40:47  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:40:50.52 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file __pycache__/user.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/user.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:40:50.52 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 19:40:50  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:41:13.89 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file user_tests.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file user_tests.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:41:13.89 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 19:41:13  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:41:42.57 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file user_tests.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file user_tests.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:41:42.57 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 19:41:42  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:44:02.67 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file user.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file user.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:44:02.67 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 19:44:02  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:44:06.60 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file user.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file user.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:44:06.60 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 19:44:06  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:44:08.61 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file user.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file user.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:44:08.61 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 19:44:08  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:44:19.44 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file user.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file user.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:44:19.44 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 19:44:19  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:44:28.15 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file user.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file user.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:44:28.15 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 19:44:28  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:44:30.17 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file user.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file user.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:44:30.17 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 19:44:30  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:44:50.47 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file __pycache__/user.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/user.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:44:50.47 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 19:44:50  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:46:04.67 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file user.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file user.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:46:04.67 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 19:46:04  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:46:05.68 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file __pycache__/user.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/user.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:46:05.68 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 19:46:05  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:46:36.50 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file user.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file user.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:46:36.50 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 19:46:36  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:46:37.52 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file __pycache__/user.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/user.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:46:37.52 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 19:46:37  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:46:45.15 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file __pycache__/user.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/user.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:46:45.15 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 19:46:45  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:46:50.79 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file __pycache__/user.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/user.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:46:50.80 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 19:46:50  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:47:01.63 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file __pycache__/user.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/user.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:47:01.64 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 19:47:01  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:47:05.23 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file user.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file user.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:47:05.24 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 19:47:05  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:47:06.25 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file __pycache__/user.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/user.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:47:06.26 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 19:47:06  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:47:09.28 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file user.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file user.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:47:09.28 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 19:47:09  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:47:10.29 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file __pycache__/user.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/user.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:47:10.30 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 19:47:10  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:47:33.19 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file user.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file user.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:47:33.20 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 19:47:33  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:47:34.21 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file __pycache__/user.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/user.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:47:34.21 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 19:47:34  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:47:38.47 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file __pycache__/user.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/user.cpython-36.pyc
+   Sync Log:  [BGN] Updating file user.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file user.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:47:38.47 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 19:47:38  (2 items transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:48:27.54 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file user.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file user.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:48:27.55 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 19:48:27  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:48:28.56 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file __pycache__/user.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/user.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:48:28.56 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 19:48:28  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:48:46.09 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file __pycache__/user.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/user.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:48:46.09 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 19:48:46  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:49:00.84 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file __pycache__/user.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/user.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:49:00.84 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 19:49:00  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:49:03.87 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file __pycache__/user.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/user.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:49:03.87 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 19:49:03  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:49:44.65 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file __pycache__/user.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/user.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:49:44.65 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 19:49:44  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:49:58.10 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file user.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file user.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:49:58.10 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 19:49:58  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:49:59.11 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file __pycache__/user.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/user.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:49:59.11 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 19:49:59  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:50:16.73 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file __pycache__/user.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/user.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:50:16.74 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 19:50:16  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:50:35.03 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file __pycache__/user.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/user.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:50:35.03 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 19:50:35  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:50:43.42 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file user.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file user.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:50:43.43 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 19:50:43  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:50:44.44 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file __pycache__/user.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/user.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:50:44.44 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 19:50:44  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:50:49.39 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file __pycache__/user.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/user.cpython-36.pyc
+   Sync Log:  [BGN] Updating file user.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file user.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:50:49.39 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 19:50:49  (2 items transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:51:11.98 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file __pycache__/user.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/user.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:51:11.99 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 19:51:11  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:51:16.55 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file user.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file user.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:51:16.55 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 19:51:16  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:51:22.18 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file user.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file user.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:51:22.18 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 19:51:22  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:51:25.28 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file user.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file user.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:51:25.28 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 19:51:25  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:51:32.91 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file user.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file user.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:51:32.91 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 19:51:32  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:51:36.37 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file user.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file user.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:51:36.37 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 19:51:36  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:51:40.82 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file __pycache__/user.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/user.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:51:40.82 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 19:51:40  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:52:05.02 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file __pycache__/user.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/user.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:52:05.02 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 19:52:05  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:52:24.59 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file user.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file user.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:52:24.59 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 19:52:24  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:52:25.60 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file __pycache__/user.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/user.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:52:25.60 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 19:52:25  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:52:33.89 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file __pycache__/user.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/user.cpython-36.pyc
+   Sync Log:  [BGN] Updating file user.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file user.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:52:33.90 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 19:52:33  (2 items transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:52:48.66 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file __pycache__/user.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/user.cpython-36.pyc
+   Sync Log:  [BGN] Updating file user.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file user.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:52:48.67 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 19:52:48  (2 items transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:53:17.85 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file LeVinEmployee.db from /host_sync to /app_sync
+   Sync Log:  [END] Updating file LeVinEmployee.db
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:53:17.87 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 19:53:17  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:54:19.29 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file __pycache__/user.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/user.cpython-36.pyc
+   Sync Log:  [BGN] Updating file user.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file user.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:54:19.29 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 19:54:19  (2 items transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:54:25.85 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file __pycache__/user.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/user.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:54:25.85 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 19:54:25  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:55:02.86 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file __pycache__/user.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/user.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:55:02.86 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 19:55:02  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:55:32.80 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file user.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file user.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:55:32.81 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 19:55:32  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:55:34.82 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file __pycache__/user.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/user.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:55:34.82 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 19:55:34  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:55:42.78 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file __pycache__/user.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/user.cpython-36.pyc
+   Sync Log:  [BGN] Updating file user.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file user.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:55:42.79 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 19:55:42  (2 items transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:55:48.02 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file user.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file user.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:55:48.02 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 19:55:48  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:55:50.54 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file user.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file user.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:55:50.54 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 19:55:50  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:55:55.82 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file __pycache__/user.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/user.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:55:55.82 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 19:55:55  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:56:35.98 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file user.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file user.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:56:35.99 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 19:56:35  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:56:37.00 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file __pycache__/user.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/user.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:56:37.00 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 19:56:37  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:57:39.09 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file user.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file user.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:57:39.10 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 19:57:39  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:57:41.11 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file __pycache__/user.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/user.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:57:41.11 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 19:57:41  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:57:53.70 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file user.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file user.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:57:53.71 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 19:57:53  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:57:54.72 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file __pycache__/user.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/user.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:57:54.72 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 19:57:54  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:59:32.78 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file user.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file user.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:59:32.78 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 19:59:32  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:59:33.79 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file __pycache__/user.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/user.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:59:33.80 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 19:59:33  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 20:01:16.27 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file user.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file user.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 20:01:16.28 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 20:01:16  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 20:01:49.05 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file user.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file user.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 20:01:49.06 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 20:01:49  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 20:01:55.09 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file user.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file user.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 20:01:55.09 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 20:01:55  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 20:01:59.30 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file user.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file user.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 20:01:59.30 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 20:01:59  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 20:02:11.55 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file user.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file user.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 20:02:11.55 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 20:02:11  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 20:02:18.38 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file __pycache__/user.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/user.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 20:02:18.39 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 20:02:18  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 20:02:33.66 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file __pycache__/user.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/user.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 20:02:33.67 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 20:02:33  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 20:02:38.06 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file user.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file user.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 20:02:38.07 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 20:02:38  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 20:02:39.08 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file __pycache__/user.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/user.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 20:02:39.08 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 20:02:39  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 20:02:59.14 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file __pycache__/user.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/user.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 20:02:59.15 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 20:02:59  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 20:03:28.77 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file user.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file user.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 20:03:28.78 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 20:03:28  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 20:03:30.79 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file __pycache__/user.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/user.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 20:03:30.79 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 20:03:30  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 20:03:34.52 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file user.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file user.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 20:03:34.52 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 20:03:34  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 20:03:35.53 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file __pycache__/user.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/user.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 20:03:35.53 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 20:03:35  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 20:03:39.40 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file user.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file user.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 20:03:39.40 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 20:03:39  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 20:03:41.42 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file __pycache__/user.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/user.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 20:03:41.42 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 20:03:41  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 20:03:47.06 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file user.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file user.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 20:03:47.06 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 20:03:47  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 20:03:48.08 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file __pycache__/user.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/user.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 20:03:48.08 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 20:03:48  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 20:04:34.21 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file user.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file user.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 20:04:34.22 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 20:04:34  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 20:05:53.27 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file user.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file user.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 20:05:53.28 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 20:05:53  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 20:06:09.85 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file user.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file user.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 20:06:09.86 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 20:06:09  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 20:06:14.02 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file __pycache__/user.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/user.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 20:06:14.02 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 20:06:14  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 20:07:14.86 on 25 Oct 2017
+   Sync Log:  [BGN] Updating file __pycache__/user.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/user.cpython-36.pyc
+   Sync Log:  [BGN] Updating file user.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file user.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 20:07:14.87 on 25 Oct 2017
+   Sync Log:  Synchronization complete at 20:07:14  (2 items transferred, 0 skipped, 0 failed)

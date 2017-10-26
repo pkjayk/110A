@@ -6,9 +6,10 @@ import sys
 
 class User:
 
-	# define conn variable
 	def __init__(self):
 		self = self
+		self.userDatabasePath = '/app/src/LeVinEmployee.db'
+		self.userDatabase = sqlite3.connect(self.userDatabasePath)
 
 	def isEmpty(*arg):
 		emptyValue = False
@@ -25,11 +26,9 @@ class User:
 		if(self.isEmpty(email, password)):
 			return 'Please enter a username and password.'
 
-		conn = sqlite3.connect('/app/src/LeVinEmployee.db')
+		with self.userDatabase:
 
-		with conn:
-
-			cur = conn.cursor()
+			cur = self.userDatabase.cursor()
 
 			try:
 
