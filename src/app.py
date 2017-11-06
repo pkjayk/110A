@@ -5,6 +5,7 @@ import os
 import socket
 from user import User
 import redis
+from correlation import Correlation
 
 app = Flask(__name__)
 
@@ -40,7 +41,19 @@ def renderRegisterPage():
 	if request.method == "GET":
 		return render_template('register.html')
 	if request.method == "POST":
-		return register.registerUser(request.form['firstName'], request.form['lastName'], request.form['address'], request.form['city'], request.form['state'], request.form['zip'], request.form['email'], request.form['password'])
+		userRegistration = register.registerUser(request.form['firstName'], request.form['lastName'], request.form['address'], request.form['city'], request.form['state'], request.form['zip'], request.form['email'], request.form['password'])
+		return render_template('register.html', errorMessage = userRegistration)
+
+# correlation page
+@app.route("/correlation", methods=['GET', 'POST'])
+def renderCorrelation():
+
+	correlation = Correlation()
+
+	if request.method == "GET":
+		return render_template('associate.html')
+	if request.method == "POST":
+		return correlation.correlateWines(request.form['wine_type'], 'quality', request.form['wine_characteristic'])
 
 @app.route("/logout")
 def logoutUser():

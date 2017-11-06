@@ -2,3 +2,5 @@ Flask
 Redis
 Flask-Session
 python-memcached
+pandas
+scipy

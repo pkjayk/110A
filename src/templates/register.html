@@ -1,10 +1,18 @@
 <!doctype html>
 <head>
 <title>Le Vin Coupe</title>
+
+<style>
+.error-message {
+	padding:15px;
+	color:red;
+}
+</style>
 </head>
 
 <body>
 <h1>Register a New User</h1>
+<div class="error-message">{{ errorMessage }}</div>
 <form method="POST" action="/register">
 First Name: <input type="text" name="firstName">
 <br>
