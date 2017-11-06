@@ -1,4 +1,4 @@
-from flask import Flask, render_template, request, make_response, jsonify, session
+from flask import Flask, render_template, request, make_response, jsonify, session, Markup
 from flask_session import Session
 import memcache
 import os
@@ -53,7 +53,10 @@ def renderCorrelation():
 	if request.method == "GET":
 		return render_template('associate.html')
 	if request.method == "POST":
-		return correlation.correlateWines(request.form['wine_type'], 'quality', request.form['wine_characteristic'])
+		correlationResults = correlation.correlateWines(request.form['wine_type'], 'quality', request.form['wine_characteristic'])
+		characteristicValues = correlation.getCharacteristicValues(request.form['wine_type'])
+		regressionLineValues = correlation.generateRegressionLine()
+		return render_template('association-graph.html', results = Markup(correlationResults), qualityValues = characteristicValues['quality'], otherValues = characteristicValues[request.form['wine_characteristic']], yAxisTitle = request.form['wine_characteristic'].title(), regressionValues = regressionLineValues)
 
 @app.route("/logout")
 def logoutUser():

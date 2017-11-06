@@ -2918,3 +2918,702 @@
    Sync Log:  [END] Updating file templates/associate.html
    Sync Log:  UNISON 2.48.4 finished propagating changes at 07:58:30.66 on 06 Nov 2017
    Sync Log:  Synchronization complete at 07:58:30  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 10:46:13.50 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file templates/associate.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/associate.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 10:46:13.50 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 10:46:13  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 10:46:53.83 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file templates/associate.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/associate.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 10:46:53.84 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 10:46:53  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 10:48:51.36 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file app.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file app.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 10:48:51.36 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 10:48:51  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 10:48:55.37 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file app.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file app.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 10:48:55.37 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 10:48:55  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 10:49:22.85 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file app.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file app.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 10:49:22.85 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 10:49:22  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 10:50:36.39 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file correlation.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file correlation.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 10:50:36.39 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 10:50:36  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 10:50:54.33 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file correlation.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file correlation.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 10:50:54.33 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 10:50:54  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 10:51:08.03 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file correlation.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file correlation.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 10:51:08.03 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 10:51:08  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 10:51:19.43 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file correlation.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file correlation.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 10:51:19.44 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 10:51:19  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 10:51:47.17 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file app.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file app.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 10:51:47.17 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 10:51:47  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 10:52:18.18 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file app.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file app.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 10:52:18.18 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 10:52:18  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 10:52:51.42 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file app.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file app.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 10:52:51.42 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 10:52:51  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 10:52:58.02 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/correlation.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/correlation.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 10:52:58.03 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 10:52:58  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 10:53:19.63 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file correlation.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file correlation.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 10:53:19.63 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 10:53:19  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 10:53:20.65 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/correlation.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/correlation.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 10:53:20.65 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 10:53:20  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 10:53:57.45 on 06 Nov 2017
+   Sync Log:  [BGN] Copying templates/association-graph.html from /host_sync to /app_sync
+   Sync Log:  [END] Copying templates/association-graph.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 10:53:57.45 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 10:53:57  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 10:54:20.84 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file templates/association-graph.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/association-graph.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 10:54:20.84 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 10:54:20  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 10:55:24.06 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file templates/association-graph.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/association-graph.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 10:55:24.07 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 10:55:24  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 10:55:38.72 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file templates/association-graph.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/association-graph.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 10:55:38.72 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 10:55:38  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 10:55:48.37 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file templates/association-graph.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/association-graph.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 10:55:48.38 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 10:55:48  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 10:59:36.44 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file templates/association-graph.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/association-graph.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 10:59:36.45 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 10:59:36  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:00:07.63 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file templates/association-graph.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/association-graph.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:00:07.64 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 11:00:07  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:00:11.06 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file templates/association-graph.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/association-graph.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:00:11.07 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 11:00:11  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:01:36.88 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file templates/association-graph.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/association-graph.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:01:36.88 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 11:01:36  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:09:58.20 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file templates/association-graph.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/association-graph.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:09:58.20 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 11:09:58  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:10:20.85 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file templates/association-graph.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/association-graph.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:10:20.85 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 11:10:20  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:11:00.38 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file templates/association-graph.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/association-graph.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:11:00.38 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 11:11:00  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:11:08.45 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file templates/association-graph.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/association-graph.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:11:08.46 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 11:11:08  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:13:24.79 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file templates/association-graph.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/association-graph.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:13:24.80 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 11:13:24  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:14:58.49 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file templates/association-graph.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/association-graph.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:14:58.50 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 11:14:58  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:15:05.22 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file templates/association-graph.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/association-graph.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:15:05.22 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 11:15:05  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:15:37.58 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file templates/association-graph.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/association-graph.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:15:37.59 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 11:15:37  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:15:41.72 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file templates/association-graph.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/association-graph.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:15:41.72 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 11:15:41  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:16:07.57 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file templates/association-graph.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/association-graph.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:16:07.57 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 11:16:07  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:16:34.61 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file templates/association-graph.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/association-graph.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:16:34.62 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 11:16:34  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:17:11.32 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file templates/association-graph.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/association-graph.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:17:11.32 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 11:17:11  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:18:45.36 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file templates/association-graph.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/association-graph.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:18:45.36 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 11:18:45  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:19:00.90 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file templates/association-graph.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/association-graph.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:19:00.90 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 11:19:00  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:24:57.78 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file templates/association-graph.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/association-graph.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:24:57.79 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 11:24:57  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:25:45.59 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file templates/association-graph.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/association-graph.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:25:45.60 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 11:25:45  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:25:56.87 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file templates/association-graph.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/association-graph.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:25:56.88 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 11:25:56  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:27:48.79 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file correlation.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file correlation.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:27:48.79 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 11:27:48  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:27:49.81 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/correlation.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/correlation.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:27:49.81 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 11:27:49  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:28:43.42 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/correlation.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/correlation.cpython-36.pyc
+   Sync Log:  [BGN] Updating file correlation.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file correlation.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:28:43.42 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 11:28:43  (2 items transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:28:45.44 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file correlation.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file correlation.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:28:45.44 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 11:28:45  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:28:46.46 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/correlation.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/correlation.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:28:46.46 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 11:28:46  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:30:00.70 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/correlation.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/correlation.cpython-36.pyc
+   Sync Log:  [BGN] Updating file correlation.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file correlation.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:30:00.71 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 11:30:00  (2 items transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:30:21.32 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file correlation.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file correlation.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:30:21.32 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 11:30:21  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:30:36.47 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file correlation.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file correlation.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:30:36.48 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 11:30:36  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:30:45.11 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file correlation.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file correlation.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:30:45.11 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 11:30:45  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:30:51.55 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/correlation.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/correlation.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:30:51.55 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 11:30:51  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:32:01.01 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file correlation.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file correlation.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:32:01.02 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 11:32:01  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:32:52.45 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file correlation.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file correlation.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:32:52.45 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 11:32:52  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:33:06.42 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/correlation.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/correlation.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:33:06.43 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 11:33:06  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:33:10.55 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file correlation.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file correlation.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:33:10.55 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 11:33:10  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:33:11.56 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/correlation.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/correlation.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:33:11.57 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 11:33:11  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:33:46.03 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/correlation.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/correlation.cpython-36.pyc
+   Sync Log:  [BGN] Updating file correlation.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file correlation.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:33:46.04 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 11:33:46  (2 items transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:34:14.84 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file correlation.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file correlation.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:34:14.84 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 11:34:14  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:34:15.86 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/correlation.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/correlation.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:34:15.86 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 11:34:15  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:34:32.14 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file correlation.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file correlation.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:34:32.15 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 11:34:32  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:34:34.16 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/correlation.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/correlation.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:34:34.16 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 11:34:34  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:36:50.84 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file templates/association-graph.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/association-graph.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:36:50.85 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 11:36:50  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:37:03.19 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file templates/association-graph.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/association-graph.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:37:03.19 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 11:37:03  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:39:19.69 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file templates/association-graph.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/association-graph.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:39:19.70 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 11:39:19  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:40:04.96 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file app.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file app.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:40:04.96 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 11:40:04  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:40:39.58 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file templates/association-graph.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/association-graph.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:40:39.59 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 11:40:39  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:40:53.80 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file templates/association-graph.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/association-graph.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:40:53.80 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 11:40:53  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:41:23.92 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file templates/association-graph.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/association-graph.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:41:23.92 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 11:41:23  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:42:25.55 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file templates/association-graph.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/association-graph.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:42:25.56 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 11:42:25  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:43:02.63 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file templates/association-graph.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/association-graph.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:43:02.64 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 11:43:02  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:43:41.78 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file correlation.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file correlation.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:43:41.78 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 11:43:41  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:43:44.80 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/correlation.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/correlation.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:43:44.80 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 11:43:44  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:43:54.11 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file correlation.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file correlation.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:43:54.11 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 11:43:54  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:43:56.13 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/correlation.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/correlation.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:43:56.13 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 11:43:56  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:45:22.57 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file app.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file app.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:45:22.57 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 11:45:22  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:45:31.60 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file app.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file app.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:45:31.60 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 11:45:31  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:45:48.28 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file app.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file app.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:45:48.28 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 11:45:48  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:46:14.72 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file correlation.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file correlation.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:46:14.72 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 11:46:14  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:46:15.74 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/correlation.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/correlation.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:46:15.74 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 11:46:15  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:46:58.39 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file correlation.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file correlation.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:46:58.39 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 11:46:58  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:47:00.41 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/correlation.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/correlation.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:47:00.42 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 11:47:00  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:49:18.94 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/correlation.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/correlation.cpython-36.pyc
+   Sync Log:  [BGN] Updating file correlation.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file correlation.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:49:18.95 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 11:49:18  (2 items transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:49:23.24 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/correlation.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/correlation.cpython-36.pyc
+   Sync Log:  [BGN] Updating file correlation.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file correlation.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:49:23.25 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 11:49:23  (2 items transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:49:25.26 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file correlation.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file correlation.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:49:25.26 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 11:49:25  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:49:27.28 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/correlation.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/correlation.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:49:27.28 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 11:49:27  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:49:41.92 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file correlation.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file correlation.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:49:41.92 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 11:49:41  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:49:42.94 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/correlation.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/correlation.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:49:42.94 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 11:49:42  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:50:00.54 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file correlation.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file correlation.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:50:00.55 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 11:50:00  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:50:01.56 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/correlation.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/correlation.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:50:01.57 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 11:50:01  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:50:20.05 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file correlation.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file correlation.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:50:20.05 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 11:50:20  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:50:21.07 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/correlation.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/correlation.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:50:21.07 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 11:50:21  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:51:21.21 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/correlation.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/correlation.cpython-36.pyc
+   Sync Log:  [BGN] Updating file correlation.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file correlation.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:51:21.22 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 11:51:21  (2 items transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:51:35.22 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file correlation.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file correlation.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:51:35.22 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 11:51:35  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:51:37.24 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/correlation.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/correlation.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:51:37.24 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 11:51:37  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:51:45.99 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/correlation.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/correlation.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:51:45.99 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 11:51:45  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:51:58.51 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file correlation.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file correlation.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:51:58.52 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 11:51:58  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:51:59.53 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/correlation.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/correlation.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:51:59.53 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 11:51:59  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:52:03.57 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/correlation.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/correlation.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:52:03.57 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 11:52:03  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:52:23.02 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file correlation.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file correlation.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:52:23.03 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 11:52:23  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:52:25.04 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/correlation.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/correlation.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:52:25.04 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 11:52:25  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:59:34.34 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file correlation.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file correlation.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:59:34.34 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 11:59:34  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:59:36.35 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/correlation.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/correlation.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:59:36.36 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 11:59:36  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 12:01:13.87 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file app.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file app.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 12:01:13.87 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 12:01:13  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 12:01:19.72 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/correlation.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/correlation.cpython-36.pyc
+   Sync Log:  [BGN] Updating file correlation.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file correlation.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 12:01:19.73 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 12:01:19  (2 items transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 12:01:36.49 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file correlation.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file correlation.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 12:01:36.50 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 12:01:36  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 12:01:38.51 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/correlation.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/correlation.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 12:01:38.51 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 12:01:38  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 12:03:29.99 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/correlation.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/correlation.cpython-36.pyc
+   Sync Log:  [BGN] Updating file correlation.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file correlation.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 12:03:29.99 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 12:03:29  (2 items transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 12:03:40.42 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/correlation.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/correlation.cpython-36.pyc
+   Sync Log:  [BGN] Updating file correlation.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file correlation.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 12:03:40.43 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 12:03:40  (2 items transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 12:03:42.45 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/correlation.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/correlation.cpython-36.pyc
+   Sync Log:  [BGN] Updating file correlation.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file correlation.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 12:03:42.46 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 12:03:42  (2 items transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 12:04:29.71 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file correlation.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file correlation.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 12:04:29.71 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 12:04:29  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 12:04:30.73 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/correlation.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/correlation.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 12:04:30.73 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 12:04:30  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 12:05:37.27 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file app.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file app.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 12:05:37.28 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 12:05:37  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 12:42:40.59 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file correlation.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file correlation.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 12:42:40.59 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 12:42:40  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 12:42:41.60 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/correlation.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/correlation.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 12:42:41.61 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 12:42:41  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 12:43:10.33 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/correlation.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/correlation.cpython-36.pyc
+   Sync Log:  [BGN] Updating file correlation.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file correlation.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 12:43:10.34 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 12:43:10  (2 items transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 12:43:15.69 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/correlation.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/correlation.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 12:43:15.69 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 12:43:15  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 12:44:11.45 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file app.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file app.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 12:44:11.45 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 12:44:11  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 12:44:22.68 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file app.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file app.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 12:44:22.68 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 12:44:22  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 12:44:33.67 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file templates/association-graph.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/association-graph.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 12:44:33.67 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 12:44:33  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 12:44:53.71 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file correlation.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file correlation.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 12:44:53.72 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 12:44:53  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 12:44:54.73 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/correlation.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/correlation.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 12:44:54.73 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 12:44:54  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 12:45:43.26 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/correlation.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/correlation.cpython-36.pyc
+   Sync Log:  [BGN] Updating file correlation.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file correlation.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 12:45:43.26 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 12:45:43  (2 items transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 12:46:00.85 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file correlation.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file correlation.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 12:46:00.85 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 12:46:00  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 12:46:01.86 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/correlation.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/correlation.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 12:46:01.87 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 12:46:01  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 12:46:11.31 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file app.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file app.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 12:46:11.32 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 12:46:11  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 12:46:18.72 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file app.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file app.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 12:46:18.73 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 12:46:18  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 12:46:31.56 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file app.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file app.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 12:46:31.56 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 12:46:31  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 12:46:37.51 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file app.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file app.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 12:46:37.51 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 12:46:37  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 12:46:50.40 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file app.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file app.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 12:46:50.40 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 12:46:50  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 12:47:48.75 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file app.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file app.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 12:47:48.76 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 12:47:48  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 12:48:17.81 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file templates/association-graph.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/association-graph.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 12:48:17.81 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 12:48:17  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 12:48:21.58 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file templates/association-graph.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/association-graph.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 12:48:21.58 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 12:48:21  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 12:48:30.98 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file templates/association-graph.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/association-graph.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 12:48:30.98 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 12:48:30  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 12:48:34.26 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file templates/association-graph.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/association-graph.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 12:48:34.27 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 12:48:34  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 12:49:41.60 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file templates/association-graph.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/association-graph.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 12:49:41.60 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 12:49:41  (1 item transferred, 0 skipped, 0 failed)

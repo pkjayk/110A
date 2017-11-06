@@ -1,0 +1,49 @@
+<!doctype html>
+<head>
+<title>Le Vin Coupe</title>
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+<style>
+.error-message {
+	padding:15px;
+	color:red;
+}
+</style>
+</head>
+
+<body>
+<p style="text-align:center">{{ results }}</p>
+
+  <div id="scatter" style="max-width:100%;width:700px;margin:0 auto"><!-- Plotly chart will be drawn inside this DIV --></div>
+
+<script>
+
+	var trace1 = {
+		x: [{% for value in qualityValues %}{{ value }}, {% endfor %}],
+		y: [{% for value in otherValues %}{{ value }}, {% endfor %}],
+		mode: 'markers',
+		type: 'scatter'
+	};
+	var trace2 = {
+		x: [{% for value in qualityValues %}{{ value }}, {% endfor %}],
+		y: [{% for value in regressionValues %}{{ value }}, {% endfor %}],
+		mode: 'lines'
+	}
+
+	var layout = {
+		title: 'Wine Quality vs {{ yAxisTitle }}',
+		showlegend: false,
+		xaxis: {
+			title: 'Wine Quality',
+		},
+		 yaxis: {
+		    title: '{{ yAxisTitle }}',
+		}
+	};
+
+
+	var data = [trace1, trace2];
+
+	Plotly.newPlot('scatter', data, layout, {staticPlot: true});
+</script>
+</body>
+</html>
