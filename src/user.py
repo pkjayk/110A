@@ -15,11 +15,11 @@ class User:
 	def isEmpty(*arg):
 		emptyValue = False
 		for var in arg:
-			if var == "":
+			clean = str(var).strip()
+			if clean == "":
 				emptyValue = True
 				
-		if(emptyValue):
-			return True
+		return emptyValue
 
 	def isValidEmail(self, email):
 		if len(email) > 4:

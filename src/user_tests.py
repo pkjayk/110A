@@ -13,7 +13,7 @@ class TestUserFunctions(unittest.TestCase):
 		self.assertTrue(self.user.isValidEmail('bob.moore@gmail.com'))
 
 	def testNotIsEmpty(self):
-		self.assertFalse(self.user.isEmpty('  j. ', 'j.'))
+		self.assertFalse(self.user.isEmpty('  j.    ', 'j.'))
 
 	def testIsEmpty(self):
 		self.assertTrue(self.user.isEmpty('      ', ' '))
