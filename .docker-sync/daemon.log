@@ -3989,3 +3989,972 @@
    Sync Log:  [END] Updating file __pycache__/user_tests.cpython-36.pyc
    Sync Log:  UNISON 2.48.4 finished propagating changes at 13:18:38.11 on 06 Nov 2017
    Sync Log:  Synchronization complete at 13:18:38  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  Error response from daemon: Bad response from Docker engine
+          ok  Starting native_osx for sync le-vin-coupe-sync
+          ok  le-vin-coupe-sync container still running, restarting unison in container
+     command  docker exec le-vin-coupe-sync supervisorctl restart unison
+          ok  starting initial sync of le-vin-coupe-sync
+     success  Sync container started
+     success  Showing unison logs from your sync container: le-vin-coupe-sync
+   Sync Log:  [BGN] Updating file app.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file app.py
+   Sync Log:  [BGN] Copying frequency.py from /host_sync to /app_sync
+   Sync Log:  [END] Copying frequency.py
+   Sync Log:  [BGN] Copying templates/frequency-graph.html from /host_sync to /app_sync
+   Sync Log:  [END] Copying templates/frequency-graph.html
+   Sync Log:  [BGN] Deleting templates/untitled.html from /app_sync
+   Sync Log:  [END] Deleting templates/untitled.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 16:24:11.60 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 16:24:11  (5 items transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 16:24:29.76 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file app.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file app.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 16:24:29.76 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 16:24:29  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 16:25:14.89 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file templates/frequency-graph.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/frequency-graph.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 16:25:14.89 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 16:25:14  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 16:25:44.07 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file app.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file app.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 16:25:44.07 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 16:25:44  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 16:25:55.30 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file app.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file app.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 16:25:55.30 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 16:25:55  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 16:26:06.56 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file app.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file app.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 16:26:06.56 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 16:26:06  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 16:26:18.39 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file app.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file app.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 16:26:18.39 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 16:26:18  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 16:26:25.72 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file app.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file app.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 16:26:25.73 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 16:26:25  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 16:26:31.92 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file app.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file app.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 16:26:31.93 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 16:26:31  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 16:26:42.65 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file app.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file app.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 16:26:42.65 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 16:26:42  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 16:28:20.50 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file app.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file app.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 16:28:20.51 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 16:28:20  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 16:28:34.61 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file app.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file app.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 16:28:34.61 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 16:28:34  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 16:28:43.97 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file app.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file app.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 16:28:43.97 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 16:28:43  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 16:28:52.33 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file app.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file app.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 16:28:52.34 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 16:28:52  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 16:29:06.60 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file app.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file app.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 16:29:06.60 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 16:29:06  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 16:29:14.31 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file app.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file app.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 16:29:14.31 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 16:29:14  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 16:29:18.48 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file app.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file app.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 16:29:18.49 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 16:29:18  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 16:29:24.85 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file app.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file app.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 16:29:24.86 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 16:29:24  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 16:29:35.98 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file app.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file app.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 16:29:35.99 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 16:29:35  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 16:30:58.25 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file app.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file app.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 16:30:58.25 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 16:30:58  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 16:35:08.30 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file app.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file app.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 16:35:08.30 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 16:35:08  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 16:35:27.73 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file app.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file app.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 16:35:27.73 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 16:35:27  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 16:37:40.18 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file app.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file app.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 16:37:40.18 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 16:37:40  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 16:38:23.23 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file app.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file app.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 16:38:23.23 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 16:38:23  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 16:38:31.80 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file app.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file app.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 16:38:31.82 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 16:38:31  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 16:40:53.27 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file app.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file app.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 16:40:53.27 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 16:40:53  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 16:42:21.64 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/frequency.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/frequency.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 16:42:21.64 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 16:42:21  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 16:42:49.79 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file app.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file app.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 16:42:49.79 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 16:42:49  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 16:44:59.89 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file frequency.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file frequency.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 16:44:59.89 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 16:44:59  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 16:45:01.91 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/frequency.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/frequency.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 16:45:01.92 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 16:45:01  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 16:45:32.89 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file frequency.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file frequency.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 16:45:32.89 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 16:45:32  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 16:45:34.91 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/frequency.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/frequency.cpython-36.pyc
+   Sync Log:  [BGN] Updating file frequency.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file frequency.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 16:45:34.91 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 16:45:34  (2 items transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 16:45:36.93 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/frequency.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/frequency.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 16:45:36.94 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 16:45:36  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 16:45:54.72 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file frequency.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file frequency.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 16:45:54.72 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 16:45:54  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 16:45:56.73 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/frequency.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/frequency.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 16:45:56.73 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 16:45:56  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 16:45:58.76 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/frequency.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/frequency.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 16:45:58.76 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 16:45:58  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 16:46:07.73 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file app.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file app.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 16:46:07.74 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 16:46:07  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 16:46:21.42 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file app.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file app.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 16:46:21.42 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 16:46:21  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 16:47:00.89 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file app.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file app.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 16:47:00.89 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 16:47:00  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 16:47:53.76 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file frequency.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file frequency.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 16:47:53.76 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 16:47:53  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 16:47:55.77 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/frequency.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/frequency.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 16:47:55.78 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 16:47:55  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 16:48:47.42 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file frequency.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file frequency.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 16:48:47.43 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 16:48:47  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 16:48:48.44 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/frequency.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/frequency.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 16:48:48.44 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 16:48:48  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 16:49:01.25 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/frequency.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/frequency.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 16:49:01.26 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 16:49:01  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 16:49:18.55 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/frequency.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/frequency.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 16:49:18.55 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 16:49:18  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 16:49:28.86 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file frequency.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file frequency.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 16:49:28.86 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 16:49:28  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 16:49:30.87 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/frequency.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/frequency.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 16:49:30.88 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 16:49:30  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 16:49:39.09 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file frequency.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file frequency.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 16:49:39.09 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 16:49:39  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 16:49:45.29 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/frequency.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/frequency.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 16:49:45.30 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 16:49:45  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 16:50:06.73 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/frequency.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/frequency.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 16:50:06.74 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 16:50:06  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 16:50:33.68 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file templates/frequency-graph.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/frequency-graph.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 16:50:33.68 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 16:50:33  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 16:51:55.03 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file frequency.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file frequency.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 16:51:55.03 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 16:51:55  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 16:51:56.04 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/frequency.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/frequency.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 16:51:56.05 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 16:51:56  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 16:53:05.88 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file frequency.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file frequency.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 16:53:05.89 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 16:53:05  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 16:53:07.91 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/frequency.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/frequency.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 16:53:07.91 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 16:53:07  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 16:53:24.50 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file frequency.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file frequency.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 16:53:24.50 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 16:53:24  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 16:53:27.60 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/frequency.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/frequency.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 16:53:27.60 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 16:53:27  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 16:53:46.19 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/frequency.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/frequency.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 16:53:46.20 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 16:53:46  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 16:55:48.28 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file frequency.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file frequency.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 16:55:48.28 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 16:55:48  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 16:55:49.29 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/frequency.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/frequency.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 16:55:49.30 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 16:55:49  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 16:56:03.60 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file app.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file app.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 16:56:03.60 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 16:56:03  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 16:56:24.54 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file app.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file app.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 16:56:24.54 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 16:56:24  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 16:58:36.71 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file frequency.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file frequency.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 16:58:36.71 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 16:58:36  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 16:58:37.72 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/frequency.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/frequency.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 16:58:37.73 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 16:58:37  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 16:58:46.41 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file app.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file app.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 16:58:46.41 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 16:58:46  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 16:59:40.26 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file frequency.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file frequency.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 16:59:40.26 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 16:59:40  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 16:59:42.27 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/frequency.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/frequency.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 16:59:42.28 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 16:59:42  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 17:00:24.52 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/frequency.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/frequency.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 17:00:24.52 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 17:00:24  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 17:00:58.88 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file frequency.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file frequency.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 17:00:58.88 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 17:00:58  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 17:01:13.38 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file frequency.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file frequency.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 17:01:13.39 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 17:01:13  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 17:01:32.50 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file frequency.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file frequency.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 17:01:32.50 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 17:01:32  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 17:03:48.21 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file frequency.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file frequency.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 17:03:48.22 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 17:03:48  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 17:03:54.07 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/frequency.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/frequency.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 17:03:54.07 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 17:03:54  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 17:04:15.40 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file frequency.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file frequency.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 17:04:15.40 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 17:04:15  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 17:04:16.42 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/frequency.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/frequency.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 17:04:16.42 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 17:04:16  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 17:05:19.92 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file frequency.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file frequency.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 17:05:19.93 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 17:05:19  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 17:05:21.94 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/frequency.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/frequency.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 17:05:21.94 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 17:05:21  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 17:06:02.08 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/frequency.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/frequency.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 17:06:02.08 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 17:06:02  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 17:06:11.69 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file frequency.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file frequency.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 17:06:11.69 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 17:06:11  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 17:06:13.71 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/frequency.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/frequency.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 17:06:13.71 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 17:06:13  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 17:06:56.09 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file frequency.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file frequency.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 17:06:56.09 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 17:06:56  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 17:07:03.66 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file frequency.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file frequency.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 17:07:03.67 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 17:07:03  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 17:07:13.63 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/frequency.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/frequency.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 17:07:13.63 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 17:07:13  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 17:07:30.61 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file frequency.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file frequency.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 17:07:30.62 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 17:07:30  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 17:07:32.63 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/frequency.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/frequency.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 17:07:32.63 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 17:07:32  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 17:07:51.98 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/frequency.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/frequency.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 17:07:51.98 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 17:07:51  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 17:07:56.53 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file frequency.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file frequency.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 17:07:56.53 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 17:07:56  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 17:07:58.55 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/frequency.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/frequency.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 17:07:58.55 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 17:07:58  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 17:08:02.54 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file app.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file app.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 17:08:02.54 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 17:08:02  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 17:08:29.26 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file frequency.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file frequency.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 17:08:29.26 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 17:08:29  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 17:08:30.28 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/frequency.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/frequency.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 17:08:30.28 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 17:08:30  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 17:08:31.29 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file frequency.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file frequency.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 17:08:31.29 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 17:08:31  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 17:08:33.31 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/frequency.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/frequency.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 17:08:33.32 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 17:08:33  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 17:09:56.99 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file app.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file app.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 17:09:56.99 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 17:09:56  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 17:10:04.65 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file app.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file app.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 17:10:04.65 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 17:10:04  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 17:10:33.23 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file app.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file app.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 17:10:33.24 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 17:10:33  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 17:11:03.61 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file app.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file app.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 17:11:03.62 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 17:11:03  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 17:16:00.06 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file app.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file app.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 17:16:00.06 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 17:16:00  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 17:16:15.88 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file app.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file app.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 17:16:15.88 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 17:16:15  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 17:16:20.13 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file app.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file app.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 17:16:20.13 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 17:16:20  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 17:16:48.36 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file templates/frequency-graph.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/frequency-graph.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 17:16:48.37 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 17:16:48  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 17:17:03.19 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file templates/frequency-graph.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/frequency-graph.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 17:17:03.20 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 17:17:03  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 17:17:12.53 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file templates/frequency-graph.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/frequency-graph.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 17:17:12.54 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 17:17:12  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 17:17:50.54 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file frequency.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file frequency.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 17:17:50.55 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 17:17:50  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 17:17:52.56 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/frequency.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/frequency.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 17:17:52.56 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 17:17:52  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 17:19:33.44 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file templates/frequency-graph.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/frequency-graph.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 17:19:33.44 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 17:19:33  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 17:20:25.50 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file frequency.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file frequency.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 17:20:25.50 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 17:20:25  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 17:20:27.52 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/frequency.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/frequency.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 17:20:27.52 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 17:20:27  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 17:20:35.08 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file app.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file app.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 17:20:35.08 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 17:20:35  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 17:20:43.60 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file app.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file app.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 17:20:43.61 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 17:20:43  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 17:55:00.90 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file templates/frequency-graph.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/frequency-graph.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 17:55:00.90 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 17:55:00  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 17:55:09.15 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file templates/frequency-graph.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/frequency-graph.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 17:55:09.16 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 17:55:09  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 17:55:25.86 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file app.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file app.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 17:55:25.86 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 17:55:25  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 17:56:29.89 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file templates/frequency-graph.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/frequency-graph.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 17:56:29.89 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 17:56:29  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 17:56:48.57 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file app.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file app.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 17:56:48.57 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 17:56:48  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 17:56:58.49 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file templates/frequency-graph.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/frequency-graph.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 17:56:58.50 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 17:56:58  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 17:58:55.08 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file templates/frequency-graph.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/frequency-graph.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 17:58:55.08 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 17:58:55  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 17:59:02.53 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file templates/frequency-graph.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/frequency-graph.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 17:59:02.54 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 17:59:02  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 17:59:12.31 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file templates/frequency-graph.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/frequency-graph.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 17:59:12.31 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 17:59:12  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 17:59:32.23 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file templates/frequency-graph.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/frequency-graph.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 17:59:32.23 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 17:59:32  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 17:59:49.69 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file templates/frequency-graph.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/frequency-graph.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 17:59:49.70 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 17:59:49  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 18:00:02.91 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file templates/frequency-graph.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/frequency-graph.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 18:00:02.91 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 18:00:02  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 18:00:10.34 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file app.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file app.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 18:00:10.34 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 18:00:10  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 18:01:31.77 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file templates/frequency-graph.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/frequency-graph.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 18:01:31.77 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 18:01:31  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 18:01:43.35 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file templates/association-graph.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/association-graph.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 18:01:43.36 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 18:01:43  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 18:01:50.41 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file templates/associate.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/associate.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 18:01:50.41 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 18:01:50  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 18:01:54.46 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file templates/register.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/register.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 18:01:54.47 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 18:01:54  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 18:02:04.00 on 06 Nov 2017
+   Sync Log:  [BGN] Copying templates/header.html from /host_sync to /app_sync
+   Sync Log:  [END] Copying templates/header.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 18:02:04.00 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 18:02:04  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 18:02:25.25 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file templates/header.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/header.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 18:02:25.25 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 18:02:25  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 18:02:27.27 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file templates/header.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/header.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 18:02:27.27 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 18:02:27  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 18:02:30.47 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file templates/header.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/header.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 18:02:30.48 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 18:02:30  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:25:24.05 on 06 Nov 2017
+   Sync Log:  [BGN] Copying templates/frequency.html from /host_sync to /app_sync
+   Sync Log:  [END] Copying templates/frequency.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:25:24.06 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 19:25:24  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:25:44.49 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file templates/frequency.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/frequency.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:25:44.49 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 19:25:44  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:25:52.56 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file templates/frequency.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/frequency.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:25:52.57 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 19:25:52  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:26:01.15 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file app.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file app.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:26:01.15 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 19:26:01  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:26:32.95 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file app.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file app.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:26:32.96 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 19:26:32  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:26:42.56 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file app.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file app.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:26:42.57 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 19:26:42  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:27:06.32 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file app.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file app.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:27:06.32 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 19:27:06  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:27:49.25 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file templates/frequency.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/frequency.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:27:49.25 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 19:27:49  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:28:25.06 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file templates/frequency.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/frequency.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:28:25.06 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 19:28:25  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:28:28.43 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file templates/frequency.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/frequency.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:28:28.44 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 19:28:28  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:28:47.56 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file app.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file app.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:28:47.56 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 19:28:47  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:29:16.87 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file app.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file app.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:29:16.87 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 19:29:16  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:30:33.35 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file frequency.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file frequency.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:30:33.36 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 19:30:33  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:30:35.37 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/frequency.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/frequency.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:30:35.38 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 19:30:35  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:31:23.02 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file app.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file app.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:31:23.02 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 19:31:23  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:31:57.08 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file app.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file app.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:31:57.09 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 19:31:57  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:33:17.45 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file templates/dashboard.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/dashboard.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:33:17.46 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 19:33:17  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:33:40.76 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file app.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file app.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:33:40.76 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 19:33:40  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:34:21.20 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/frequency.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/frequency.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:34:21.20 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 19:34:21  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:37:03.33 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/user.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/user.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:37:03.34 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 19:37:03  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:37:12.69 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file frequency.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file frequency.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:37:12.69 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 19:37:12  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:37:13.71 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/frequency.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/frequency.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:37:13.71 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 19:37:13  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:37:21.96 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file frequency.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file frequency.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:37:21.96 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 19:37:21  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:37:23.98 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/frequency.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/frequency.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:37:23.99 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 19:37:23  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:38:08.23 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file frequency.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file frequency.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:38:08.24 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 19:38:08  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:38:09.25 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/frequency.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/frequency.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:38:09.25 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 19:38:09  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:38:31.92 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file frequency.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file frequency.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:38:31.93 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 19:38:31  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:38:33.94 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/frequency.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/frequency.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:38:33.94 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 19:38:33  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:38:53.79 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file frequency.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file frequency.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:38:53.79 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 19:38:53  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:38:56.82 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/frequency.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/frequency.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:38:56.82 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 19:38:56  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:39:14.51 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/frequency.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/frequency.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:39:14.51 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 19:39:14  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:39:34.55 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file frequency.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file frequency.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:39:34.55 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 19:39:34  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:39:36.58 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/frequency.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/frequency.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:39:36.58 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 19:39:36  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:39:51.17 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file frequency.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file frequency.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:39:51.17 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 19:39:51  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:39:52.19 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/frequency.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/frequency.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:39:52.20 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 19:39:52  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:40:08.23 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file frequency.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file frequency.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:40:08.23 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 19:40:08  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:40:10.25 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/frequency.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/frequency.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:40:10.25 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 19:40:10  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:40:23.46 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file frequency.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file frequency.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:40:23.46 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 19:40:23  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:40:25.48 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/frequency.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/frequency.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:40:25.49 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 19:40:25  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:41:04.89 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/frequency.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/frequency.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:41:04.89 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 19:41:04  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:45:23.97 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file templates/frequency-graph.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/frequency-graph.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:45:23.97 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 19:45:23  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:46:11.41 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file frequency.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file frequency.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:46:11.42 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 19:46:11  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:46:13.43 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/frequency.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/frequency.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:46:13.43 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 19:46:13  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:47:40.54 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file frequency.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file frequency.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:47:40.54 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 19:47:40  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:47:41.55 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/frequency.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/frequency.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:47:41.56 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 19:47:41  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:47:44.08 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file frequency.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file frequency.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:47:44.08 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 19:47:44  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:47:45.10 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file frequency.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file frequency.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:47:45.10 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 19:47:45  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:47:46.11 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/frequency.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/frequency.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:47:46.11 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 19:47:46  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:48:07.18 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/frequency.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/frequency.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:48:07.18 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 19:48:07  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:48:11.72 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/frequency.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/frequency.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:48:11.72 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 19:48:11  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:48:58.39 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file frequency.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file frequency.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:48:58.39 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 19:48:58  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:48:59.41 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/frequency.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/frequency.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:48:59.41 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 19:48:59  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:49:28.56 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file frequency.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file frequency.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:49:28.56 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 19:49:28  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:49:29.58 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/frequency.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/frequency.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:49:29.58 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 19:49:29  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:50:04.03 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file frequency.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file frequency.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:50:04.04 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 19:50:04  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:50:05.05 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/frequency.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/frequency.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:50:05.05 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 19:50:05  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:50:15.19 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file frequency.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file frequency.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:50:15.20 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 19:50:15  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:50:16.21 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/frequency.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/frequency.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:50:16.21 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 19:50:16  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:50:23.00 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file frequency.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file frequency.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:50:23.00 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 19:50:23  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 19:50:24.01 on 06 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/frequency.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/frequency.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 19:50:24.02 on 06 Nov 2017
+   Sync Log:  Synchronization complete at 19:50:24  (1 item transferred, 0 skipped, 0 failed)

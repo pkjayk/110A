@@ -6,6 +6,7 @@ import socket
 from user import User
 import redis
 from correlation import Correlation
+from frequency import Frequency
 
 app = Flask(__name__)
 
@@ -57,6 +58,18 @@ def renderCorrelation():
 		characteristicValues = correlation.getCharacteristicValues(request.form['wine_type'])
 		regressionLineValues = correlation.generateRegressionLine()
 		return render_template('association-graph.html', results = Markup(correlationResults), qualityValues = characteristicValues['quality'], otherValues = characteristicValues[request.form['wine_characteristic']], yAxisTitle = request.form['wine_characteristic'].title(), regressionValues = regressionLineValues)
+
+# correlation page
+@app.route("/frequency", methods=['GET', 'POST'])
+def renderFrequency():
+
+	frequency = Frequency()
+
+	if request.method == "GET":
+		return render_template('frequency.html')
+	if request.method == "POST":
+		frequencyDist = frequency.getFrequency(request.form['wine_type'], request.form['wine_characteristic_value'], request.form['wine_characteristic'], 'quality')
+		return render_template('frequency-graph.html', results = Markup(frequencyDist[0]), wineChars = frequencyDist[1], wineChar = frequencyDist[2].title())
 
 @app.route("/logout")
 def logoutUser():

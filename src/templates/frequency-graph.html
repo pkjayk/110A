@@ -1,0 +1,44 @@
+<!doctype html>
+<head>
+<title>Le Vin Coupe</title>
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+<style>
+.error-message {
+	padding:15px;
+	color:red;
+}
+</style>
+</head>
+
+<body>
+{% include 'header.html' %}
+<p style="text-align:center">{{ results }}</p>
+
+
+{% if wineChars is defined %}
+  <div id="histogram" style="max-width:100%;width:700px;margin:0 auto"><!-- Plotly chart will be drawn inside this DIV --></div>
+{% endif %}
+
+<script>
+	var xc = [{% for value in wineChars %}{{ value }}{% endfor %}]
+
+	if(xc != ""){
+
+		var trace = {
+				x: [{% for value in wineChars %} {{ value }}, {% endfor %}],
+				type: 'histogram',
+		};
+		var layout = {
+			title: 'Frequency of {{ wineChar }} by Wine Quality',
+			showlegend: false,
+			xaxis: {
+				title: 'Wine Quality',
+			},
+		};
+		var data = [trace];
+		Plotly.newPlot('histogram', data, layout, {staticPlot: true});
+		
+	}
+</script>
+</body>
+</html>

@@ -12,20 +12,23 @@
 
 <body>
 {% include 'header.html' %}
-<h1>Associations</h1>
+<h1>Frequency</h1>
 <p>
-To get started, please select a wine type and a wine characteristic.
+To get started, please select a wine type, a wine characteristic, and enter a value for the wine characteristic.
 </p>
 <div class="error-message">{{ errorMessage }}</div>
-<form method="POST" action="/correlation">
+<form method="POST" action="/frequency">
 <p>Wine Types:</p>
 	<input type="radio" name="wine_type" value="red" id="red" checked="checked"> <label for="red">Red</label><br>
 	<input type="radio" name="wine_type" value="white" id="white"> <label for="white">White</label><br>
-<p>Characteristic:</p>
+<p>Characteristics:</p>
 	<input type="radio" name="wine_characteristic" value="volatile acidity" id="volatile_acidity" checked="checked"> <label for="volatile_acidity">Volatile Acidity</label><br>
 	<input type="radio" name="wine_characteristic" value="fixed acidity" id="fixed_acidity"> <label for="fixed_acidity">Fixed Acidity</label><br>
 	<input type="radio" name="wine_characteristic" value="alcohol" id="alcohol"> <label for="alcohol">Alcohol Percent</label><br>
 	<input type="radio" name="wine_characteristic" value="residual sugar" id="residual_sugar"> <label for="residual_sugar">Residual Sugar</label><br>
+<br>
+<p>Characteristic Value:</p>
+	<input type="text" name="wine_characteristic_value"><br>
 <br>
 <input type="submit" name="submit" value="Check Association">
 </form>
