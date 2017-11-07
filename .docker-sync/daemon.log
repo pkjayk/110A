@@ -5003,3 +5003,293 @@
    Sync Log:  [END] Updating file templates/login.html
    Sync Log:  UNISON 2.48.4 finished propagating changes at 10:15:48.89 on 07 Nov 2017
    Sync Log:  Synchronization complete at 10:15:48  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 10:19:20.29 on 07 Nov 2017
+   Sync Log:  [BGN] Copying gruntfile.js from /host_sync to /app_sync
+   Sync Log:  [END] Copying gruntfile.js
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 10:19:20.29 on 07 Nov 2017
+   Sync Log:  Synchronization complete at 10:19:20  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 10:19:29.57 on 07 Nov 2017
+   Sync Log:  [BGN] Deleting gruntfile.js from /app_sync
+   Sync Log:  [END] Deleting gruntfile.js
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 10:19:29.57 on 07 Nov 2017
+   Sync Log:  Synchronization complete at 10:19:29  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 10:33:42.63 on 07 Nov 2017
+   Sync Log:  [BGN] Copying templates/style from /host_sync to /app_sync
+   Sync Log:  [END] Copying templates/style
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 10:33:42.63 on 07 Nov 2017
+   Sync Log:  Synchronization complete at 10:33:42  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 10:33:50.73 on 07 Nov 2017
+   Sync Log:  [BGN] Deleting templates/style from /app_sync
+   Sync Log:  [END] Deleting templates/style
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 10:33:50.73 on 07 Nov 2017
+   Sync Log:  Synchronization complete at 10:33:50  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 10:33:57.67 on 07 Nov 2017
+   Sync Log:  [BGN] Copying style from /host_sync to /app_sync
+   Sync Log:  [END] Copying style
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 10:33:57.67 on 07 Nov 2017
+   Sync Log:  Synchronization complete at 10:33:57  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 10:34:09.39 on 07 Nov 2017
+   Sync Log:  [BGN] Copying style/main.css from /host_sync to /app_sync
+   Sync Log:  [END] Copying style/main.css
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 10:34:09.40 on 07 Nov 2017
+   Sync Log:  Synchronization complete at 10:34:09  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 10:40:53.37 on 07 Nov 2017
+   Sync Log:  [BGN] Updating file LeVinEmployee.db from /host_sync to /app_sync
+   Sync Log:  [END] Updating file LeVinEmployee.db
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 10:40:53.38 on 07 Nov 2017
+   Sync Log:  Synchronization complete at 10:40:53  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 10:46:02.52 on 07 Nov 2017
+   Sync Log:  [BGN] Updating file correlation.py from /host_sync to /app_sync
+   Sync Log:  [END] Updating file correlation.py
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 10:46:02.52 on 07 Nov 2017
+   Sync Log:  Synchronization complete at 10:46:02  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 10:46:03.53 on 07 Nov 2017
+   Sync Log:  [BGN] Updating file __pycache__/correlation.cpython-36.pyc from /host_sync to /app_sync
+   Sync Log:  [END] Updating file __pycache__/correlation.cpython-36.pyc
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 10:46:03.53 on 07 Nov 2017
+   Sync Log:  Synchronization complete at 10:46:03  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 10:59:03.62 on 07 Nov 2017
+   Sync Log:  [BGN] Updating file style/main.css from /host_sync to /app_sync
+   Sync Log:  [END] Updating file style/main.css
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 10:59:03.62 on 07 Nov 2017
+   Sync Log:  Synchronization complete at 10:59:03  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:00:08.64 on 07 Nov 2017
+   Sync Log:  [BGN] Updating file style/main.css from /host_sync to /app_sync
+   Sync Log:  [END] Updating file style/main.css
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:00:08.65 on 07 Nov 2017
+   Sync Log:  Synchronization complete at 11:00:08  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:00:26.45 on 07 Nov 2017
+   Sync Log:  [BGN] Updating file templates/header-code.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/header-code.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:00:26.46 on 07 Nov 2017
+   Sync Log:  Synchronization complete at 11:00:26  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:05:53.62 on 07 Nov 2017
+   Sync Log:  [BGN] Updating file templates/login.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/login.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:05:53.62 on 07 Nov 2017
+   Sync Log:  Synchronization complete at 11:05:53  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:05:58.32 on 07 Nov 2017
+   Sync Log:  [BGN] Updating file templates/login.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/login.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:05:58.33 on 07 Nov 2017
+   Sync Log:  Synchronization complete at 11:05:58  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:06:04.87 on 07 Nov 2017
+   Sync Log:  [BGN] Updating file templates/login.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/login.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:06:04.87 on 07 Nov 2017
+   Sync Log:  Synchronization complete at 11:06:04  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:07:22.57 on 07 Nov 2017
+   Sync Log:  [BGN] Updating file templates/login.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/login.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:07:22.57 on 07 Nov 2017
+   Sync Log:  Synchronization complete at 11:07:22  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:07:34.43 on 07 Nov 2017
+   Sync Log:  [BGN] Updating file templates/login.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/login.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:07:34.43 on 07 Nov 2017
+   Sync Log:  Synchronization complete at 11:07:34  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:08:07.84 on 07 Nov 2017
+   Sync Log:  [BGN] Updating file templates/login.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/login.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:08:07.84 on 07 Nov 2017
+   Sync Log:  Synchronization complete at 11:08:07  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:08:15.59 on 07 Nov 2017
+   Sync Log:  [BGN] Updating file templates/login.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/login.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:08:15.60 on 07 Nov 2017
+   Sync Log:  Synchronization complete at 11:08:15  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:08:18.12 on 07 Nov 2017
+   Sync Log:  [BGN] Updating file templates/login.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/login.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:08:18.13 on 07 Nov 2017
+   Sync Log:  Synchronization complete at 11:08:18  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:08:22.12 on 07 Nov 2017
+   Sync Log:  [BGN] Updating file templates/login.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/login.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:08:22.13 on 07 Nov 2017
+   Sync Log:  Synchronization complete at 11:08:22  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:08:28.08 on 07 Nov 2017
+   Sync Log:  [BGN] Updating file templates/login.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/login.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:08:28.09 on 07 Nov 2017
+   Sync Log:  Synchronization complete at 11:08:28  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:08:37.37 on 07 Nov 2017
+   Sync Log:  [BGN] Updating file templates/login.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/login.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:08:37.37 on 07 Nov 2017
+   Sync Log:  Synchronization complete at 11:08:37  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:08:42.34 on 07 Nov 2017
+   Sync Log:  [BGN] Updating file templates/login.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/login.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:08:42.34 on 07 Nov 2017
+   Sync Log:  Synchronization complete at 11:08:42  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:09:17.45 on 07 Nov 2017
+   Sync Log:  [BGN] Updating file templates/login.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/login.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:09:17.46 on 07 Nov 2017
+   Sync Log:  Synchronization complete at 11:09:17  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:09:48.00 on 07 Nov 2017
+   Sync Log:  [BGN] Updating file templates/login.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/login.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:09:48.00 on 07 Nov 2017
+   Sync Log:  Synchronization complete at 11:09:48  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:10:02.34 on 07 Nov 2017
+   Sync Log:  [BGN] Updating file templates/login.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/login.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:10:02.34 on 07 Nov 2017
+   Sync Log:  Synchronization complete at 11:10:02  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:10:08.72 on 07 Nov 2017
+   Sync Log:  [BGN] Updating file templates/login.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/login.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:10:08.73 on 07 Nov 2017
+   Sync Log:  Synchronization complete at 11:10:08  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:10:31.28 on 07 Nov 2017
+   Sync Log:  [BGN] Updating file templates/login.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/login.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:10:31.28 on 07 Nov 2017
+   Sync Log:  Synchronization complete at 11:10:31  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:10:52.46 on 07 Nov 2017
+   Sync Log:  [BGN] Updating file templates/login.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/login.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:10:52.47 on 07 Nov 2017
+   Sync Log:  Synchronization complete at 11:10:52  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:11:03.74 on 07 Nov 2017
+   Sync Log:  [BGN] Updating file templates/login.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/login.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:11:03.75 on 07 Nov 2017
+   Sync Log:  Synchronization complete at 11:11:03  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:11:13.67 on 07 Nov 2017
+   Sync Log:  [BGN] Updating file templates/login.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/login.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:11:13.68 on 07 Nov 2017
+   Sync Log:  Synchronization complete at 11:11:13  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:11:55.65 on 07 Nov 2017
+   Sync Log:  [BGN] Updating file templates/login.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/login.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:11:55.65 on 07 Nov 2017
+   Sync Log:  Synchronization complete at 11:11:55  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:12:10.94 on 07 Nov 2017
+   Sync Log:  [BGN] Updating file templates/login.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/login.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:12:10.94 on 07 Nov 2017
+   Sync Log:  Synchronization complete at 11:12:10  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:12:53.32 on 07 Nov 2017
+   Sync Log:  [BGN] Updating file templates/login.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/login.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:12:53.32 on 07 Nov 2017
+   Sync Log:  Synchronization complete at 11:12:53  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:13:09.76 on 07 Nov 2017
+   Sync Log:  [BGN] Updating file templates/login.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/login.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:13:09.77 on 07 Nov 2017
+   Sync Log:  Synchronization complete at 11:13:09  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:13:16.06 on 07 Nov 2017
+   Sync Log:  [BGN] Updating file templates/login.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/login.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:13:16.06 on 07 Nov 2017
+   Sync Log:  Synchronization complete at 11:13:16  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:13:23.27 on 07 Nov 2017
+   Sync Log:  [BGN] Updating file templates/login.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/login.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:13:23.27 on 07 Nov 2017
+   Sync Log:  Synchronization complete at 11:13:23  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:13:41.61 on 07 Nov 2017
+   Sync Log:  [BGN] Updating file templates/login.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/login.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:13:41.61 on 07 Nov 2017
+   Sync Log:  Synchronization complete at 11:13:41  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:14:04.32 on 07 Nov 2017
+   Sync Log:  [BGN] Updating file templates/login.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/login.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:14:04.32 on 07 Nov 2017
+   Sync Log:  Synchronization complete at 11:14:04  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:14:15.03 on 07 Nov 2017
+   Sync Log:  [BGN] Updating file templates/login.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/login.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:14:15.03 on 07 Nov 2017
+   Sync Log:  Synchronization complete at 11:14:15  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:14:19.52 on 07 Nov 2017
+   Sync Log:  [BGN] Updating file templates/login.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/login.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:14:19.52 on 07 Nov 2017
+   Sync Log:  Synchronization complete at 11:14:19  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:15:39.32 on 07 Nov 2017
+   Sync Log:  [BGN] Updating file templates/login.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/login.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:15:39.32 on 07 Nov 2017
+   Sync Log:  Synchronization complete at 11:15:39  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:15:54.22 on 07 Nov 2017
+   Sync Log:  [BGN] Updating file templates/login.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/login.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:15:54.23 on 07 Nov 2017
+   Sync Log:  Synchronization complete at 11:15:54  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:16:14.53 on 07 Nov 2017
+   Sync Log:  [BGN] Updating file templates/login.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/login.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:16:14.54 on 07 Nov 2017
+   Sync Log:  Synchronization complete at 11:16:14  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:16:35.07 on 07 Nov 2017
+   Sync Log:  [BGN] Updating file templates/login.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/login.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:16:35.07 on 07 Nov 2017
+   Sync Log:  Synchronization complete at 11:16:35  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:16:50.83 on 07 Nov 2017
+   Sync Log:  [BGN] Updating file templates/login.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/login.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:16:50.84 on 07 Nov 2017
+   Sync Log:  Synchronization complete at 11:16:50  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:17:02.82 on 07 Nov 2017
+   Sync Log:  [BGN] Updating file templates/login.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/login.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:17:02.82 on 07 Nov 2017
+   Sync Log:  Synchronization complete at 11:17:02  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:17:09.02 on 07 Nov 2017
+   Sync Log:  [BGN] Updating file templates/login.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/login.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:17:09.03 on 07 Nov 2017
+   Sync Log:  Synchronization complete at 11:17:09  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:18:22.26 on 07 Nov 2017
+   Sync Log:  [BGN] Updating file templates/header-code.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/header-code.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:18:22.26 on 07 Nov 2017
+   Sync Log:  Synchronization complete at 11:18:22  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:18:55.19 on 07 Nov 2017
+   Sync Log:  [BGN] Updating file templates/login.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/login.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:18:55.19 on 07 Nov 2017
+   Sync Log:  Synchronization complete at 11:18:55  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:19:10.78 on 07 Nov 2017
+   Sync Log:  [BGN] Updating file templates/login.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/login.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:19:10.78 on 07 Nov 2017
+   Sync Log:  Synchronization complete at 11:19:10  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:19:42.10 on 07 Nov 2017
+   Sync Log:  [BGN] Updating file templates/login.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/login.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:19:42.10 on 07 Nov 2017
+   Sync Log:  Synchronization complete at 11:19:42  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:20:34.12 on 07 Nov 2017
+   Sync Log:  [BGN] Updating file templates/login.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/login.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:20:34.12 on 07 Nov 2017
+   Sync Log:  Synchronization complete at 11:20:34  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:20:47.01 on 07 Nov 2017
+   Sync Log:  [BGN] Updating file templates/login.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/login.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:20:47.01 on 07 Nov 2017
+   Sync Log:  Synchronization complete at 11:20:47  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:20:49.05 on 07 Nov 2017
+   Sync Log:  [BGN] Updating file templates/login.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/login.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:20:49.06 on 07 Nov 2017
+   Sync Log:  Synchronization complete at 11:20:49  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:21:36.14 on 07 Nov 2017
+   Sync Log:  [BGN] Updating file templates/header-code.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/header-code.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:21:36.14 on 07 Nov 2017
+   Sync Log:  Synchronization complete at 11:21:36  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  UNISON 2.48.4 started propagating changes at 11:22:40.68 on 07 Nov 2017
+   Sync Log:  [BGN] Updating file templates/login.html from /host_sync to /app_sync
+   Sync Log:  [END] Updating file templates/login.html
+   Sync Log:  UNISON 2.48.4 finished propagating changes at 11:22:40.68 on 07 Nov 2017
+   Sync Log:  Synchronization complete at 11:22:40  (1 item transferred, 0 skipped, 0 failed)

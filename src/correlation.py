@@ -39,8 +39,3 @@ class Correlation:
 
 		slope, intercept, r_value, p_value, std_err = linregress(self.wineDict[self.wineCharX], self.wineDict[self.wineCharY])
 		return slope*self.wineDict[self.wineCharX]+intercept
-
-
-
-
-
