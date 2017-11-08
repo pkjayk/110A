@@ -48,7 +48,7 @@ class User:
 	def checkCredentials(self, email=None, password=None):
 
 		if(self.isEmpty(email, password)):
-			return 'Please enter a username and password.'
+			return False, 'Please enter a username and password.'
 
 		with self.userDatabase:
 
@@ -74,9 +74,9 @@ class User:
 				print(e)
 
 		if session.get('loggedIn') == True:
-			return redirect("/", code=302)
+			return True, redirect("/", code=302)
 		else:
-			return "Invalid credentials, please try again."
+			return False, 'Invalid credentials, please try again.'
 
 	# registers a user in the database
 	def registerUser(self, firstName, lastName, address, city, state, zip, email, password):

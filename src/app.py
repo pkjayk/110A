@@ -1,4 +1,4 @@
-from flask import Flask, render_template, request, make_response, jsonify, session, Markup
+from flask import Flask, render_template, request, make_response, jsonify, session, Markup, redirect
 from flask_session import Session
 import memcache
 import os
@@ -19,19 +19,26 @@ Session(app)
 def displayHomepage():
 
 	if not User.isLoggedIn():
-		response = render_template('login.html')
+		response = redirect("/login", code=302)
 	else:
 		response = render_template('dashboard.html', firstName = User.getFirstName())
 
 	return response
 
 # Authentication page
-@app.route("/login", methods=['POST'])
+@app.route("/login", methods=['GET', 'POST'])
 def checkCredentials():
 
 	login = User()
 
-	return login.checkCredentials(email = request.form['email'], password = request.form['password'])
+	if request.method == "GET":
+		return render_template('login.html')
+	else:
+		loginResult = login.checkCredentials(email = request.form['email'], password = request.form['password']);
+		if loginResult[0]:
+			return loginResult[1]
+		else:
+			return render_template('login.html', errorMessage = loginResult[1])
 
 # Authentication page
 @app.route("/register", methods=['GET', 'POST'])

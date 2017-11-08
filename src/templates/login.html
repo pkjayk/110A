@@ -11,9 +11,12 @@
 		<div>
 		<h4 style="font-family:'Dancing Script'" class="text-center">Le Vin Coupé</h4>
 		<h2 style="margin-bottom:30px;text-align: center">Login to Get Started</h2>
+		{% if errorMessage is defined %}
+		<div class="alert alert-danger" role="alert">{{ errorMessage }}</div>
+		{% endif %}
 		<form method="POST" action="/login">
 		<div class="row" style="margin-bottom:15px;">
-			<div class="col-sm-12"><input type="text" name="email" style="width:100%;padding:7px" placeholder="Email Address"></div>
+			<div class="col-sm-12"><input type="text" name="email" style="width:100%;padding:7px" placeholder="Email Address" value="{{ request.form['email'] }}"></div>
 		</div>
 		<div class="row">
 			<div class="col-sm-12"><input type="password" name="password" style="width:100%;padding:7px" placeholder="Password"></div>
