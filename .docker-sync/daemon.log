@@ -5293,3 +5293,4 @@
    Sync Log:  [END] Updating file templates/login.html
    Sync Log:  UNISON 2.48.4 finished propagating changes at 11:22:40.68 on 07 Nov 2017
    Sync Log:  Synchronization complete at 11:22:40  (1 item transferred, 0 skipped, 0 failed)
+   Sync Log:  Error response from daemon: Bad response from Docker engine

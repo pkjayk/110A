@@ -3,12 +3,13 @@ from flask_session import Session
 import sqlite3
 import sys
 import re
+import os
 
 class User:
 
 	def __init__(self):
 		self = self
-		self.userDatabasePath = '/app/src/LeVinEmployee.db'
+		self.userDatabasePath = os.path.dirname(os.path.abspath(__file__)) + '/LeVinEmployee.db'
 		self.userDatabase = sqlite3.connect(self.userDatabasePath)
 
 	# checks if any fields of the given argument are empty
