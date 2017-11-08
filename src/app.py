@@ -14,14 +14,17 @@ SESSION_TYPE = 'filesystem'
 app.config.from_object(__name__)
 Session(app)
 
+# before every request, check if user is logged in. If not, redirect to login page
+@app.before_request
+def check_login():
+	if not User.isLoggedIn() and request.path != "/login":
+		return redirect("/login", code=302)
+
 # Home page - Will display either login screen or dashboard
 @app.route("/")
 def displayHomepage():
 
-	if not User.isLoggedIn():
-		response = redirect("/login", code=302)
-	else:
-		response = render_template('dashboard.html', firstName = User.getFirstName())
+	response = render_template('dashboard.html', firstName = User.getFirstName())
 
 	return response
 
@@ -66,7 +69,7 @@ def renderCorrelation():
 		regressionLineValues = correlation.generateRegressionLine()
 		return render_template('association-graph.html', results = Markup(correlationResults), qualityValues = characteristicValues['quality'], otherValues = characteristicValues[request.form['wine_characteristic']], yAxisTitle = request.form['wine_characteristic'].title(), regressionValues = regressionLineValues)
 
-# correlation page
+# frequency page
 @app.route("/frequency", methods=['GET', 'POST'])
 def renderFrequency():
 

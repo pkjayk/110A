@@ -16,19 +16,19 @@
 <h1>Register a New User</h1>
 <div class="error-message">{{ errorMessage }}</div>
 <form method="POST" action="/register">
-First Name: <input type="text" name="firstName">
+First Name: <input type="text" name="firstName" value="{{ request.form['firstName'] }}">
 <br>
-Last Name: <input type="text" name="lastName">
+Last Name: <input type="text" name="lastName" value="{{ request.form['lastName'] }}">
 <br>
-Street Address: <input type="text" name="address">
+Street Address: <input type="text" name="address" value="{{ request.form['address'] }}">
 <br>
-City: <input type="text" name="city">
+City: <input type="text" name="city" value="{{ request.form['city'] }}">
 <br>
-State: <input type="text" name="state">
+State: <input type="text" name="state" value="{{ request.form['state'] }}">
 <br>
-Zip Code: <input type="text" name="zip">
+Zip Code: <input type="text" name="zip" value="{{ request.form['zip'] }}">
 <br>
-Email: <input type="text" name="email">
+Email: <input type="text" name="email" value="{{ request.form['email'] }}">
 <br>
 Password: <input type="password" name="password">
 <br>
