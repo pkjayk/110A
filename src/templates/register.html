@@ -1,6 +1,7 @@
 <!doctype html>
 <head>
 <title>Le Vin Coupe</title>
+{% include 'header-code.html' %}
 
 <style>
 .error-message {
@@ -11,29 +12,112 @@
 </head>
 
 <body>
-{% include 'header.html' %}
-
+{% with active="user" %}
+	{% include 'nav.html' %}
+{% endwith %}
+<div class="container content pt-4 pb-4" style="border:1px solid #ddd; border-top:none;">
 <h1>Register a New User</h1>
 <div class="error-message">{{ errorMessage }}</div>
+<div style="width:650px">
 <form method="POST" action="/register">
-First Name: <input type="text" name="firstName" value="{{ request.form['firstName'] }}">
-<br>
-Last Name: <input type="text" name="lastName" value="{{ request.form['lastName'] }}">
-<br>
-Street Address: <input type="text" name="address" value="{{ request.form['address'] }}">
-<br>
-City: <input type="text" name="city" value="{{ request.form['city'] }}">
-<br>
-State: <input type="text" name="state" value="{{ request.form['state'] }}">
-<br>
-Zip Code: <input type="text" name="zip" value="{{ request.form['zip'] }}">
-<br>
-Email: <input type="text" name="email" value="{{ request.form['email'] }}">
-<br>
-Password: <input type="password" name="password">
-<br>
-
-<input type="submit" name="submit" value="Register">
+  <div class="form-group row">
+  	<div class="col-md-6">
+    <label for="firstName">First Name</label>
+    <input type="text" name="firstName" class="form-control" id="firstName" value="{{ request.form['firstName'] }}" placeholder="First Name">
+    </div>
+  	<div class="col-md-6">
+    <label for="lastName">Last Name</label>
+    <input type="text" name="lastName" class="form-control" id="lastName" value="{{ request.form['lastName'] }}" placeholder="Last Name">
+    </div>
+  </div>
+  <div class="form-group row">
+  	<div class="col-md-6">
+    <label for="email">Email Address</label>
+    <input type="email" name="email" class="form-control" id="email" value="{{ request.form['email'] }}" placeholder="Email Address">
+    </div>
+    <div class="col-md-6">
+    <label for="password">Password</label>
+    <input type="password" name="password" class="form-control" id="password" value="{{ request.form['password'] }}" placeholder="Password">
+    </div>
+  </div>
+  <div class="form-group row">
+  	<div class="col-md-12">
+    <label for="address">Street Address</label>
+	<input type="text" name="address" class="form-control" id="address" value="{{ request.form['address'] }}" placeholder="Street Address">
+	</div>
+  </div>
+  <div class="form-row">
+    <div class="form-group col-md-6">
+      <label for="inputCity">City</label>
+      <input type="text" class="form-control" name="city" value="{{ request.form['city'] }}" id="inputCity" placeholder="City">
+    </div>
+    <div class="form-group col-md-4">
+      <label for="inputState">State</label>
+      <select id="inputState" class="form-control" name="state">
+		<option value="AL">Alabama</option>
+		<option value="AK">Alaska</option>
+		<option value="AZ">Arizona</option>
+		<option value="AR">Arkansas</option>
+		<option value="CA" selected>California</option>
+		<option value="CO">Colorado</option>
+		<option value="CT">Connecticut</option>
+		<option value="DE">Delaware</option>
+		<option value="DC">District Of Columbia</option>
+		<option value="FL">Florida</option>
+		<option value="GA">Georgia</option>
+		<option value="HI">Hawaii</option>
+		<option value="ID">Idaho</option>
+		<option value="IL">Illinois</option>
+		<option value="IN">Indiana</option>
+		<option value="IA">Iowa</option>
+		<option value="KS">Kansas</option>
+		<option value="KY">Kentucky</option>
+		<option value="LA">Louisiana</option>
+		<option value="ME">Maine</option>
+		<option value="MD">Maryland</option>
+		<option value="MA">Massachusetts</option>
+		<option value="MI">Michigan</option>
+		<option value="MN">Minnesota</option>
+		<option value="MS">Mississippi</option>
+		<option value="MO">Missouri</option>
+		<option value="MT">Montana</option>
+		<option value="NE">Nebraska</option>
+		<option value="NV">Nevada</option>
+		<option value="NH">New Hampshire</option>
+		<option value="NJ">New Jersey</option>
+		<option value="NM">New Mexico</option>
+		<option value="NY">New York</option>
+		<option value="NC">North Carolina</option>
+		<option value="ND">North Dakota</option>
+		<option value="OH">Ohio</option>
+		<option value="OK">Oklahoma</option>
+		<option value="OR">Oregon</option>
+		<option value="PA">Pennsylvania</option>
+		<option value="RI">Rhode Island</option>
+		<option value="SC">South Carolina</option>
+		<option value="SD">South Dakota</option>
+		<option value="TN">Tennessee</option>
+		<option value="TX">Texas</option>
+		<option value="UT">Utah</option>
+		<option value="VT">Vermont</option>
+		<option value="VA">Virginia</option>
+		<option value="WA">Washington</option>
+		<option value="WV">West Virginia</option>
+		<option value="WI">Wisconsin</option>
+		<option value="WY">Wyoming</option>
+    </select>
+    </div>
+    <div class="form-group col-md-2">
+      <label for="inputZip">Zip Code</label>
+      <input type="text" class="form-control" id="inputZip" name="zip" value="{{ request.form['zip'] }}" placeholder="Zip Code">
+    </div>
+  </div>
+<input type="submit" name="submit" class="btn btn-primary" value="Register">
 </form>
+</div>
+</div>
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
 </body>
 </html>

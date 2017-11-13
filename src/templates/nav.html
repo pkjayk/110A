@@ -1,0 +1,24 @@
+<div class="container mt-4" style="padding-left:0;padding-right:0"> 
+	<ul class="nav nav-tabs">
+		<li class="nav-item">
+			<a class="nav-link {% if active == "dashboard" %}active{% endif %}" href="/">Dashboard</a>
+		</li>
+		<li class="nav-item dropdown">
+			<a class="nav-link dropdown-toggle {% if active == "user" %}active{% endif %}" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">User</a>
+			<div class="dropdown-menu">
+			  <a class="dropdown-item" href="/register">Register New</a>
+			  <a class="dropdown-item" href="#">User List</a>
+			</div>
+		</li>
+		<li class="nav-item dropdown">
+			<a class="nav-link dropdown-toggle {% if active == "wineTest" %}active{% endif %}" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Wine Tests</a>
+			<div class="dropdown-menu">
+			  <a class="dropdown-item" href="/correlation">Associations</a>
+			  <a class="dropdown-item" href="/frequency">Frequencies</a>
+			</div>
+		</li>
+		<li class="nav-item">
+			<a class="nav-link" href="/logout">Logout</a>
+		</li>
+	</ul>
+</div>
