@@ -14,11 +14,24 @@ SESSION_TYPE = 'filesystem'
 app.config.from_object(__name__)
 Session(app)
 
+# var to see if we're deployed to heroku
+on_heroku = False
+
+if 'ON_HEROKU' in os.environ:
+  on_heroku = True
+
 # before every request, check if user is logged in. If not, redirect to login page
 @app.before_request
 def check_login():
 	if not User.isLoggedIn() and request.path != "/login":
 		return redirect("/login", code=302)
+
+'''@app.before_request
+def forceSSL():
+    if request.url.startswith('http://'):
+        url = request.url.replace('http://', 'https://', 1)
+        code = 301
+        return redirect(url, code=code)'''
 
 # Home page - Will display either login screen or dashboard
 @app.route("/")
@@ -93,6 +106,9 @@ def render(error):
 
 if __name__ == "__main__":
 	# NOTE: debug mode necessary if you want to see live reloads
-    #port = int(os.environ.get('PORT', 4000))
-    #app.run(host='0.0.0.0', port=port)
-    app.run(debug = True, host='0.0.0.0', port=80)
+	print("On Heroku?:" + str(on_heroku))
+	if on_heroku:
+		port = int(os.environ.get('PORT', 4000))
+		app.run(host='0.0.0.0', port=port)
+	else: #assume we're running locally
+		app.run(debug = True, host='0.0.0.0', port=80)
