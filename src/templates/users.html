@@ -6,23 +6,34 @@
 </head>
 
 <body>
-{% with active="dashboard" %}
+{% with active="user" %}
 	{% include 'nav.html' %}
 {% endwith %}
-<div class="container content" style="border:1px solid #ddd; border-top:none;">
-<h1 class="pt-4">Employee Dashboard</h1>
-<p>
-Hello, {{ firstName }}
-</p>
-<p>
-Select an option below:
-</p>
-<ul>
-	<li><a href="/register">Register a new user</a></li>
-	<li><a href="/users">View all users</a></li>
-	<li><a href="/correlation">Test Associations</a></li>
-	<li><a href="/frequency">Test Frequencies</a></li>
-</ul>
+<div class="container content mb-4" style="border:1px solid #ddd; border-top:none;">
+<h1 class="pt-4">Registered Users List</h1>
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">ID #</th>
+      <th scope="col">First Name</th>
+      <th scope="col">Last Name</th>
+      <th scope="col">Email</th>
+    </tr>
+  </thead>
+   <tbody>
+
+{% for user in users %}
+    <tr>
+      <th scope="row">{{ user[0] }}</th>
+      <td>{{ user[1] }}</td>
+      <td>{{ user[2] }}</td>
+      <td>{{ user[7] }}</td>
+    </tr>
+{% endfor %}
+  </tbody>
+</table>
+
+
 </div>
 <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>

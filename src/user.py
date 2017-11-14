@@ -115,6 +115,26 @@ class User:
 
 		return 'User with email ' + email + ' registered!'
 
+	def getUsers(self):
+
+		with self.userDatabase:
+
+			cur = self.userDatabase.cursor()
+
+			try:
+
+				# select username and password match, use placeholders in query to prevent SQL injection
+				cur.execute("SELECT EmployeeID, FirstName, LastName, StreetAddress, City, State, ZipCode, Email FROM Employee")
+
+				employeeList = list(cur.fetchall())
+				
+
+			except Exception as e:
+				print(e)
+
+		return employeeList
+
+
 	def isLoggedIn():
 		if session.get('loggedIn') == True:
 			return True

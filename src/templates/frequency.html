@@ -1,6 +1,7 @@
 <!doctype html>
 <head>
 <title>Le Vin Coupe</title>
+{% include 'header-code.html' %}
 
 <style>
 .error-message {
@@ -11,26 +12,33 @@
 </head>
 
 <body>
-{% include 'header.html' %}
+{% with active="wineTest" %}
+	{% include 'nav.html' %}
+{% endwith %}
+<div class="container content mb-4 pt-4 pb-4" style="border:1px solid #ddd; border-top:none;">
 <h1>Frequency</h1>
 <p>
 To get started, please select a wine type, a wine characteristic, and enter a value for the wine characteristic.
 </p>
 <div class="error-message">{{ errorMessage }}</div>
 <form method="POST" action="/frequency">
-<p>Wine Types:</p>
+<p><b>Wine Types:</b></p>
 	<input type="radio" name="wine_type" value="red" id="red" checked="checked"> <label for="red">Red</label><br>
 	<input type="radio" name="wine_type" value="white" id="white"> <label for="white">White</label><br>
-<p>Characteristics:</p>
+<p class="pt-2"><b>Characteristics:</b></p>
 	<input type="radio" name="wine_characteristic" value="volatile acidity" id="volatile_acidity" checked="checked"> <label for="volatile_acidity">Volatile Acidity</label><br>
 	<input type="radio" name="wine_characteristic" value="fixed acidity" id="fixed_acidity"> <label for="fixed_acidity">Fixed Acidity</label><br>
 	<input type="radio" name="wine_characteristic" value="alcohol" id="alcohol"> <label for="alcohol">Alcohol Percent</label><br>
 	<input type="radio" name="wine_characteristic" value="residual sugar" id="residual_sugar"> <label for="residual_sugar">Residual Sugar</label><br>
 <br>
-<p>Characteristic Value:</p>
+<p><b>Characteristic Value:</b></p>
 	<input type="text" name="wine_characteristic_value"><br>
 <br>
-<input type="submit" name="submit" value="Check Association">
+<input type="submit" name="submit" value="Check Frequency" class="btn btn-primary">
 </form>
+</div>
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
 </body>
 </html>

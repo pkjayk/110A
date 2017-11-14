@@ -1,6 +1,8 @@
 <!doctype html>
 <head>
 <title>Le Vin Coupe</title>
+{% include 'header-code.html' %}
+
 <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 <style>
 .error-message {
@@ -11,11 +13,14 @@
 </head>
 
 <body>
-{% include 'header.html' %}
+{% with active="wineTest" %}
+	{% include 'nav.html' %}
+{% endwith %}
+<div class="container content mb-4 pt-4 pb-4" style="border:1px solid #ddd; border-top:none;">
 <p style="text-align:center">{{ results }}</p>
 
   <div id="scatter" style="max-width:100%;width:700px;margin:0 auto"><!-- Plotly chart will be drawn inside this DIV --></div>
-
+</div>
 <script>
 
 	var trace1 = {
@@ -46,5 +51,8 @@
 
 	Plotly.newPlot('scatter', data, layout, {staticPlot: true});
 </script>
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
 </body>
 </html>

@@ -68,6 +68,15 @@ def renderRegisterPage():
 		userRegistration = register.registerUser(request.form['firstName'], request.form['lastName'], request.form['address'], request.form['city'], request.form['state'], request.form['zip'], request.form['email'], request.form['password'])
 		return render_template('register.html', errorMessage = userRegistration)
 
+@app.route("/users")
+def displayUserList():
+
+	user = User()
+
+	userList = user.getUsers()
+
+	return render_template('users.html', users = userList)
+
 # correlation page
 @app.route("/correlation", methods=['GET', 'POST'])
 def renderCorrelation():

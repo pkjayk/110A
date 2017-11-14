@@ -1,6 +1,7 @@
 <!doctype html>
 <head>
 <title>Le Vin Coupe</title>
+{% include 'header-code.html' %}
 
 <style>
 .error-message {
@@ -11,17 +12,20 @@
 </head>
 
 <body>
-{% include 'header.html' %}
+{% with active="wineTest" %}
+	{% include 'nav.html' %}
+{% endwith %}
+<div class="container content mb-4 pt-4 pb-4" style="border:1px solid #ddd; border-top:none;">
 <h1>Associations</h1>
 <p>
 To get started, please select a wine type and a wine characteristic.
 </p>
 <div class="error-message">{{ errorMessage }}</div>
 <form method="POST" action="/correlation">
-<p>Wine Types:</p>
+<p><b>Wine Types:</b></p>
 	<input type="radio" name="wine_type" value="red" id="red" checked="checked"> <label for="red">Red</label><br>
 	<input type="radio" name="wine_type" value="white" id="white"> <label for="white">White</label><br>
-<p>Characteristic:</p>
+<p class="pt-2"><b>Characteristics:</b></p>
 	<input type="radio" name="wine_characteristic" value="volatile acidity" id="volatile_acidity" checked="checked"> <label for="volatile_acidity">Volatile Acidity</label><br>
 	<input type="radio" name="wine_characteristic" value="fixed acidity" id="fixed_acidity"> <label for="fixed_acidity">Fixed Acidity</label><br>
 	<input type="radio" name="wine_characteristic" value="alcohol" id="alcohol"> <label for="alcohol">Alcohol Percent</label><br>
@@ -30,7 +34,11 @@ To get started, please select a wine type and a wine characteristic.
 	<input type="radio" name="wine_characteristic" value="chlorides" id="chloride"> <label for="chloride">Chlorides</label><br>
 	<input type="radio" name="wine_characteristic" value="density" id="density"> <label for="density">Density</label><br>
 <br>
-<input type="submit" name="submit" value="Check Association">
+<input type="submit" name="submit" class="btn btn-primary" value="Check Association">
 </form>
+</div>
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
 </body>
 </html>
