@@ -83,10 +83,10 @@ class User:
 	def registerUser(self, firstName, lastName, address, city, state, zip, email, password):
 		
 		if(self.isEmpty(firstName, lastName, address, city, state, zip, email, password)):
-			return 'Please enter all fields.'
+			return 'Please enter all fields.', ''
 
 		if not self.isValidEmail(email):
-			return 'Invalid email address!'
+			return 'Invalid email address!', ''
 
 		with self.userDatabase:
 
@@ -113,7 +113,7 @@ class User:
 			except Exception as e:
 				print(e)
 
-		return 'User with email ' + email + ' registered!'
+		return '', 'User with email ' + email + ' registered!'
 
 	def getUsers(self):
 

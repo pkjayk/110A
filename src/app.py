@@ -66,7 +66,7 @@ def renderRegisterPage():
 		return render_template('register.html')
 	if request.method == "POST":
 		userRegistration = register.registerUser(request.form['firstName'], request.form['lastName'], request.form['address'], request.form['city'], request.form['state'], request.form['zip'], request.form['email'], request.form['password'])
-		return render_template('register.html', errorMessage = userRegistration)
+		return render_template('register.html', errorMessage = userRegistration[0], successMessage = userRegistration[1])
 
 @app.route("/users")
 def displayUserList():

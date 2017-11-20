@@ -39,10 +39,12 @@
 			showlegend: false,
 			xaxis: {
 				title: 'Wine Quality',
+
 			},
+  			bargap:0.50
 		};
 		var data = [trace];
-		Plotly.newPlot('histogram', data, layout, {staticPlot: true});
+		Plotly.newPlot('histogram', data, layout, {displayModeBar: false});
 		
 	}
 </script>

@@ -16,7 +16,7 @@
 	{% include 'nav.html' %}
 {% endwith %}
 <div class="container content mb-4 pt-4 pb-4" style="border:1px solid #ddd; border-top:none;">
-<h1>Frequency</h1>
+<h1>Frequencies</h1>
 <p>
 To get started, please select a wine type, a wine characteristic, and enter a value for the wine characteristic.
 </p>
@@ -30,6 +30,10 @@ To get started, please select a wine type, a wine characteristic, and enter a va
 	<input type="radio" name="wine_characteristic" value="fixed acidity" id="fixed_acidity"> <label for="fixed_acidity">Fixed Acidity</label><br>
 	<input type="radio" name="wine_characteristic" value="alcohol" id="alcohol"> <label for="alcohol">Alcohol Percent</label><br>
 	<input type="radio" name="wine_characteristic" value="residual sugar" id="residual_sugar"> <label for="residual_sugar">Residual Sugar</label><br>
+	<input type="radio" name="wine_characteristic" value="citric acid" id="citric_acid"> <label for="citric_acid">Citric Acid</label><br>
+	<input type="radio" name="wine_characteristic" value="chlorides" id="chloride"> <label for="chloride">Chlorides</label><br>
+	<input type="radio" name="wine_characteristic" value="density" id="density"> <label for="density">Density</label><br>
+
 <br>
 <p><b>Characteristic Value:</b></p>
 	<input type="text" name="wine_characteristic_value"><br>

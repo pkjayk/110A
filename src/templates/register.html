@@ -8,6 +8,9 @@
 	padding:15px;
 	color:red;
 }
+.success-message {
+	color:green;
+}
 </style>
 </head>
 
@@ -17,7 +20,10 @@
 {% endwith %}
 <div class="container content pt-4 pb-4" style="border:1px solid #ddd; border-top:none;">
 <h1>Register a New User</h1>
-<div class="error-message">{{ errorMessage }}</div>
+<div class="error-message">
+	{{ errorMessage }}
+	<div class="success-message">{{ successMessage }}</div>
+</div>
 <div style="width:650px">
 <form method="POST" action="/register">
   <div class="form-group row">
