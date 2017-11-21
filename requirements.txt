@@ -4,4 +4,3 @@ Flask-Session
 python-memcached
 pandas
 scipy
-Grunt
